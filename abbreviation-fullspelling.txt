@@ -1,0 +1,4528 @@
+pt:patient
+ml:milliliter
+pm:post meridiem
+ct:computed tomography
+iv:intravenous
+s/p:status post
+ap:anteroposterior
+po:per os 
+bp:blood pressure
+c:with
+eval:evaluate
+hr:heart rate
+mg:milligram
+cm:centimeter
+s:without
+icu:intensive care unit
+w/o:without
+w/:with
+t:temperature
+cont:continue
+x:times
+ed:emergency department
+o2:oxygen
+rr:respiratory rate
+r:right
+l:left
+ng:nasogastric
+gtt: drop 
+mmhg: millimeters of mercury
+sbp: systolic blood pressure
+abd: abdomen
+prn: as needed 
+ivf: intravenous fluids
+bpm: beats per minute
+resp: respiration
+gi: gastrointestinal
+hpi: history of present illness
+spo2: saturation of peripheral oxygen
+cta: clear to auscultation
+tmax: maximum temperature
+amt: amount
+sats: oxygen saturations
+c/o: complains of
+ett: endotracheal tube
+w: with
+sr: sinus rhythm
+htn: hypertension
+cabg: coronary artery bypass graft
+osh: outside hospital
+pmh: past medical history
+r/o: rule out
+kg: kilograms
+micu: medical intensive care unit
+pna: pneumonia
+labs: laboratories
+tf: tube feeding
+cath: catheter
+sob: shortness of breath
+meq/l: milliequivalents per liter
+cxr: chest x-ray
+mg/dl: milligrams per deciliter
+chf: congestive heart failure
+mri: magnetic resonance imaging
+h/o: history of
+abg: arterial blood gas
+yo: years old
+bs: blood sugar
+npo: nothing by mouth
+meds: medications
+hx: history
+vent: ventilator
+pa: pulmonary artery
+cad: coronary artery disease
+ekg: electrocardiogram
+mr: mitral regurgitation
+fx: fracture
+et: endotracheal
+nc: nasal cannula
+pe: pulmonary embolism
+pfi: pneumonia severity index
+vs: vital signs
+afib: atrial fibrillation
+wbc: white blood cell
+lll: left lower lobe
+ij: internal jugular
+ptx: pneumothorax
+ra: right atrium
+hd: hemodialysis
+svc: superior vena cava
+cvp: central venous pressure
+ca: calcium
+cvp: central venous pressure
+rul: right upper lobe
+pmhx: past medical history
+fio2: fraction of inspired oxygen
+ccu: coronary care unit
+etoh: ethyl alcohol
+d/c: discharge
+lul: left upper lobe
+neo: neoplasm
+ativan: lorazepam 
+cv: cardiovascular
+mcg/kg/min: micrograms per kilogram per minute
+tylenol: acetaminophen 
+l.s: lumbar spine
+bilat: bilateral
+dm: diabetes mellitus
+wnl: within normal limits
+echo: echocardiogram
+st: segment elevation
+ngt: nasogastric tube
+k: potassium
+m: male
+jugular: jugular vein
+tidal: tidal volume
+er: emergency room
+cc: chief complaint
+ventricular: ventricular rate or rhythm
+x1: one time
+ventilatory: ventilatory support
+x3: three times
+cirrhosis: liver cirrhosis
+inr: international normalized ratio
+infarct: myocardial infarct
+oob: out of bed
+abx: antibiotics
+tablet: oral tablet
+24-48: 24 to 48 hours
+sicu: surgical intensive care unit
+pulm: pulmonary
+pantoprazole: brand name Protonix
+mae: moves all extremities
+cp: chest pain
+rn: registered nurse
+tx: treatment
+ef: ejection fraction
+rsbi: rapid shallow breathing index
+prbc: packed red blood cells
+pod: post-operative day
+peep: positive end-expiratory pressure
+map: mean arterial pressure
+ros: review of symptoms
+asa: acetylsalicylic acid 
+ercp: endoscopic retrograde cholangiopancreatography
+f/u: follow-up
+cpap: continuous positive airway pressure
+y/o: years old
+tid: three times a day
+bun: blood urea nitrogen
+cva: cerebrovascular accident
+u/o: urine output
+ich: intracerebral hemorrhage
+sah: subarachnoid hemorrhage
+mi: myocardial infarction
+bm: bowel movement
+cmh2o: centimeters of water
+c-spine: cervical spine
+pre-op: pre-operative
+l/min: liters per minute
+p.m.: post meridiem 
+bipap: bilevel positive airway pressure
+.h/o: history of
+ica: Internal Carotid Artery
+wgt: Weight
+pca: Patient-Controlled Analgesia
+lad: Left Anterior Descending 
+cx: Circumflex 
+mca: Middle Cerebral Artery
+mdct: Multi-Detector Computed Tomography
+r/t: Related To
+hrs: Hours
+tsicu: Trauma/Surgical Intensive Care Unit
+cvicu: Cardiovascular Intensive Care Unit
+ms: Multiple Sclerosis
+piv: Peripheral Intravenous Catheter
+nebs: Nebulizers
+sbt: Spontaneous Breathing Trial
+uop: Urine Output
+ivc: Inferior Vena Cava
+neb: Nebulizer
+op: Operation
+ems: Emergency Medical Services
+lr: Lactated Ringers 
+sc: Subcutaneous
+ptt: Partial Thromboplastin Time
+gib: Gastrointestinal Bleeding
+esrd: End-Stage Renal Disease
+ogt: Orogastric Tube
+q6h: Every 6 Hours
+cvl: Central Venous Line
+ciwa: Clinical Institute Withdrawal Assessment
+af: Atrial Fibrillation
+av: Atrioventricular
+nrb: Non-Rebreather 
+3l: 3 liters
+/sda: same day admission
+uti: urinary tract infection
+ac: before meals
+co2: carbon dioxide
+endo: endoscopy or endocrine
+pcp: primary care physician
+ext: extremities
+dr: doctor
+mvc: motor vehicle collision
+trach: tracheostomy
+gerd: gastroesophageal reflux disease
+uo: urine output
+co/ci: cardiac output/cardiac index
+arf: acute renal failure
+approx: approximately
+cm/sec: centimeters per second
+post-op: post-operative
+sh: social history
+egd: esophagogastroduodenoscopy
+fh: family history
+n/v: nausea/vomiting
+ivp: intravenous pyelogram
+mra: magnetic resonance angiography
+ffp: fresh frozen plasma
+ntg: nitroglycerin
+ph: potential of hydrogen
+pvc: premature ventricular contraction
+s/s: signs and symptoms
+fs: fingerstick
+mcg: microgram
+x-ray: radiograph
+i/o: intake and output
+vt: ventricular tachycardia
+ii: two
+ir: interventional radiology
+og: orogastric
+svo2: mixed venous oxygen saturation
+na: sodium
+c/b: could be
+re: regarding
+ci: cardiac index
+1l: 1 liter
+l/min/m2: liters per minute per square meter
+pls: please
+sig: signetur 
+t1: T1 
+units/hour: units per hour
+nstemi: non-ST elevation myocardial infarction
+t2: T2 
+vs.: vital signs
+a.m: ante meridiem 
+npn: no pathological normal 
+psv: peak systolic velocity
+rca: right coronary artery
+ards/: acute respiratory distress syndrome
+gi/gu: gastrointestinal/genitourinary
+stemi: ST elevation myocardial infarction
+icd: implantable cardioverter-defibrillator
+vss: vital signs stable
+p/w: presented with
+yr: year
+prbcs: packed red blood cells
+pos: positive
+lt: left
+dsg: dressing
+k+: potassium
+cpt: current procedural terminology 
+tips: transjugular intrahepatic portosystemic shunt
+q4h: every 4 hours
+brbpr: bright red blood per rectum
+hcl: hydrochloric acid
+pmv: portable mechanical ventilator
+bronch: bronchoscopy
+cbd: common bile duct
+adm: admission
+dx: diagnosis
+q8h: every 8 hours
+sx: symptoms
+creat: creatinine
+pacu: post-anesthesia care unit
+pvd: peripheral vascular disease
+rij: right internal jugular
+02:00: 2 o'clock in the morning
+ecg: electrocardiogram
+ams: altered mental status
+svg: saphenous vein graft
+qhs: every night at bedtime
+eeg: electroencephalogram
+aline: arterial line
+wt: weight
+y.o: years old
+a-line: arterial line
+b/p: blood pressure
+cavoatrial: cavo-atrial junction
+sm: submucosal
+tpa: tissue plasminogen activator
+pap: pulmonary artery pressure
+c.: circa
+vac: vacuum-assisted closure
+c/w: consistent with
+ox3: oriented times three
+orif: open reduction internal fixation
+jp: Jackson-Pratt 
+hiv: human immunodeficiency virus
+cco: continuous cardiac output
+hcp: health care provider
+lp: lumbar puncture
+lap: laparoscopy
+u/s: ultrasound
+poc: point of care
+chemo: chemotherapy
+hg: mercury 
+n't: not
+sbo: small bowel obstruction
+c2: cervical vertebra 2
+lle: left lower extremity
+tpn: total parenteral nutrition
+psych: psychiatry or psychology
+ps: performance status
+co: cardiac output
+postop: postoperative
+recs: recommendations
+h: hour
+rle: right lower extremity
+mvr: mitral valve replacement
+overnoc: overnight
+fick: Fick principle 
+ss: sliding scale 
+ml/hr: milliliters per hour
+rx: prescription
+loc: level of consciousness
+bil: bilateral
+abgs: arterial blood gases
+cmv: cytomegalovirus
+flair: Fluid Attenuated Inversion Recovery 
+ua: urinalysis
+qid: quater in die 
+hs: hora somni 
+iph: intraparenchymal hemorrhage
+w/oc: without complications
+x4: four times
+plt: platelet
+dka: diabetic ketoacidosis
+a/p: assessment and plan
+iu/l: international units per liter
+dilt: diltiazem
+ep: electrophysiology
+po2: partial pressure of oxygen
+pco2: partial pressure of carbon dioxide
+dsd: dextrose saline dextrose
+nbp: noninvasive blood pressure
+iabp: intra-aortic balloon pump
+a/c: assist control
+ho: history of
+mvi: multivitamin infusion
+g/dl: grams per deciliter
+gm: gram
+pr: per rectum
+dm2: diabetes mellitus type 2
+csf: cerebrospinal fluid
+o.r: operating room
+a-fib: atrial fibrillation
+heme: hematology
+bmi: body mass index
+nh: nursing home
+lv: left ventricle
+ppi: proton pump inhibitor
+pnd: paroxysmal nocturnal dyspnea
+amio: amiodarone
+fluoro: fluoroscopy
+lac: laceration
+huo: hematuria of unknown origin
+bph: benign prostatic hyperplasia
+l1: lumbar vertebrae 1
+lue: left upper extremity
+avm: arteriovenous malformation
+ue: upper extremity
+cca: common carotid artery
+n/c: no complaints
+lantus: insulin glargine 
+nkda: no known drug allergies
+icp: intracranial pressure
+c6: cervical vertebrae 6
+pvcs: premature ventricular contractions
+nsg: nursing
+hgb: hemoglobin
+rue: right upper extremity
+ace: angiotensin-converting enzyme
+mdi: metered dose inhaler
+guiac: fecal occult blood test
+tco2: total carbon dioxide
+milrinone: a type of heart medication
+ckd: chronic kidney disease
+d5: dextrose 5% 
+hob: head of bed
+sq: subcutaneous
+tlc: total lung capacity
+q4: every 4 hours
+pacs: picture archiving and communication system
+d5w: dextrose 5% in water
+sz: seizure
+c7: cervical vertebra 7
+l4: lumbar vertebra 4
+im: intramuscular
+alt: alanine transaminase
+tia: transient ischemic attack
+desat: desaturation
+g/kg: grams per kilogram
+doe: dyspnea on exertion
+lcx: left circumflex artery
+t12: thoracic vertebra 12
+d50: dextrose 50% in water
+tele: telemetry
+q2h: every 2 hours
+ex: example
+q12h: every 12 hours
+c1: cervical vertebra 1
+pad: peripheral artery disease
+sao2: Saturation of Arterial Oxygen
+q1hr: every 1 hour
+svr: Systemic Vascular Resistance
+sma: Superior Mesenteric Artery
+cts: Computed Tomography Scans
+om: Otitis Media
+pea: Pulseless Electrical Activity
+perl: Pupils Equal, Reactive to Light
+mva: Motor Vehicle Accident
+eca: External Carotid Artery
+bms: Bare Metal Stents
+ip: Intraperitoneal
+dnr: Do Not Resuscitate
+svt: Supraventricular Tachycardia
+c4: Cervical Vertebrae 4
+ent: Ear, Nose, and Throat
+ast: Aspartate Aminotransferase
+n/a: Not Applicable
+lft: Liver Function Test
+tr: Tricuspid Regurgitation
+cdi: Clostridium Difficile Infection
+aml: Acute Myeloid Leukemia
+abd/pel: Abdomen/Pelvis
+s1: First Heart Sound
+hcv: Hepatitis C Virus
+abp: Arterial Blood Pressure
+iii:intravenous infusion
+dp:dorsalis pedis
+q2:every 2 hours
+rp:retinitis pigmentosa
+hosp:hospital
+ppm:parts per million
+sv:stroke volume
+ptx/effusion:pneumothorax/effusion
+pd:peritoneal dialysis
+cdiff:Clostridium difficile
+fsbs:fingerstick blood sugar
+dts:delirium tremens
+embo:embolization
+inc:incision
+reg:regular
+tee:transesophageal echocardiogram
+q1h:every 1 hour
+cmo:comfort measures only
+sxn:section
+ble:lower extremities
+ipf:idiopathic pulmonary fibrosis
+sp: systolic pressure
+t/o: rule out
+crit: hematocrit
+plts: platelets
+gcs: Glasgow Coma Scale
+lvef: left ventricular ejection fraction
+pda: patent ductus arteriosus
+dtr: deep tendon reflexes
+cl: chloride
+q1: every 1 hour
+dopa: dopamine
+ami: acute myocardial infarction
+calc: calcium
+gb: gallbladder
+t11: thoracic vertebra 11
+bx: biopsy
+vp: ventriculoperitoneal
+svi: stroke volume index
+c-diff: Clostridium difficile
+iddm: insulin-dependent diabetes mellitus
+svg-: saphenous vein graft
+qday: once a day
+soln: solution
+vap: ventilator-associated pneumonia
+d.: day
+antibx: antibiotics
+u/a: urinalysis
+neutropenia: neutropenia
+crf: chronic renal failure
+coags: coagulation studies
+o2sat: oxygen saturation
+evd: external ventricular drain
+hctz: hydrochlorothiazide
+ugib: upper gastrointestinal bleeding
+dz: disease
+bg: blood glucose
+cpr: cardiopulmonary resuscitation
+noc: night
+edematous: edematous
+m.d: doctor of medicine
+-pt: patient
+nph: neutral protamine hagedorn
+rbc: red blood cells
+combative: combative
+hco3: bicarbonate
+hemiparesis: hemiparesis
+cordis: cordis catheter
+g-tube: gastrostomy tube
+ce: contrast enema
+mrcp: magnetic resonance cholangiopancreatography
+niv: non-invasive ventilation
+l.: liter
+meperidine: meperidine
+mech: mechanism
+stir: short tau inversion recovery
+rml: right middle lobe
+neurosurg: neurosurgery
+q6hr: every 6 hours
+ste: ST elevation
+fuo: fever of unknown origin
+t-spine: thoracic spine
+f.: Fahrenheit
+c/: with
+des: drug-eluting stent
+lima-: left internal mammary artery
+ssi: surgical site infection
+pica: posterior inferior cerebellar artery
+contin: continuous
+vre: vancomycin-resistant enterococci
+pivs: peripheral intravenous catheters
+chb: Complete Heart Block
+mssa: Methicillin-Sensitive Staphylococcus Aureus
+t6: Thoracic Vertebra 6
+t3: Thyroid Hormone Triiodothyronine
+port-a-cath: Port-A-Catheter
+q4hr: Every 4 Hours
+q2hr: Every 2 Hours
+ctx: Contractions
+usoh: Usual State of Health
+sp02: Peripheral Oxygen Saturation
+ivfs: Intravenous Fluids
+bb: Beta Blocker
+csm: Circulation, Sensation, Movement
+cd4: Cluster of Differentiation 4
+t/sicu: Trauma/Surgical Intensive Care Unit
+ama: Against Medical Advice
+mb: Myoglobin
+wob: Work of Breathing
+rpe: Rate of Perceived Exertion
+svg-om: Saphenous Vein Graft to Obtuse Marginal artery
+c.diff: Clostridioides Difficile
+db: Diastolic Blood pressure
+dmii: Diabetes Mellitus Type II
+brb: Bright Red Blood
+rlq: Right Lower Quadrant
+b12: Vitamin B12
+los: Length of Stay
+t4: Thyroxine
+ant: Anterior
+rehabilitation: Physical Rehabilitation
+d/o: Disorder
+csurg: Cardiovascular Surgery
+decub: Decubitus 
+neuro-: Neurological
+echocardiogram: An Ultrasound of the Heart
+bka: Below Knee Amputation
+mrv: Magnetic Resonance Venography
+mgmt: Management
+s2: second heart sound
+ped: pediatric
+succ: succinylcholine
+pic: peripherally inserted central catheter
+cspine: cervical spine
+ea: epinephrine autoinjector
+cbc: complete blood count
+act: activated clotting time
+ppd: purified protein derivative
+mso4: morphine sulfate
+-s/p: status post
+uri: upper respiratory infection
+ag: anion gap
+bun/creat: blood urea nitrogen/creatinine
+inh: isoniazid
+gi-: gastrointestinal
+dic: disseminated intravascular coagulation
+acs: acute coronary syndrome
+vf: ventricular fibrillation
+t5: thoracic vertebrae 5
+q8: every 8 hours
+atc: around the clock
+stim: stimulation
+nsvt: non-sustained ventricular tachycardia
+ptca: Percutaneous Transluminal Coronary Angioplasty
+drg: Diagnosis Related Group
+niddm: Non-Insulin Dependent Diabetes Mellitus
+om1: Obtuse Marginal 1 
+bili: Bilirubin
+n/v/d: Nausea/Vomiting/Diarrhea
+rbbb: Right Bundle Branch Block
+nibp: Non-Invasive Blood Pressure
+tbm: Tracheobronchomalacia
+pet: Positron Emission Tomography
+onc: Oncology
+h2o: Water
+prox: Proximal
+bmt: Bone Marrow Transplant
+afeb: Afebrile
+ssri: Selective Serotonin Reuptake Inhibitor
+bl: Baseline
+ppx: Prophylaxis
+a/ox3: Alert and Oriented times 3
+ds: double strength" 
+qt: QT interval
+cabgx3: coronary artery bypass graft x3
+adls: activities of daily living
+lvh: left ventricular hypertrophy
+tkr: total knee replacement
+fsbg: finger stick blood glucose
+qpm: every evening
+cvvh: continuous veno-venous hemofiltration
+integ: integumentary
+hf: heart failure
+lgib: lower gastrointestinal bleed
+dsgs: dressings
+ab: antibody
+hi: head injury
+c4-c5: cervical vertebrae 4-5
+intraop: intraoperative
+adl: activities of daily living
+frx: fracture
+insp: inspiration
+m/sicu: medical/surgical intensive care unit
+lscta: lung sounds clear to auscultation
+benzos: benzodiazepines
+j-tube: jejunostomy tube
+lcws: left chest wall strain
+b/c: because
+rrt: renal replacement therapy
+lpm: liters per minute
+qtc: QT interval corrected for heart rate
+cpap/ps: continuous positive airway pressure/pressure support
+thr: total hip replacement
+o2sats: oxygen saturations
+tah: total abdominal hysterectomy
+asd: atrial septal defect
+wk: week
+intub: intubation
+ivdu: intravenous drug use
+eg: esophagogastroduodenoscopy
+licsw: licensed clinical social worker
+na+: sodium
+c-collar: cervical collar
+cll: chronic lymphocytic leukemia
+ot: occupational therapy
+ppf: proximal phalangeal fracture
+hd3: hemodialysis day 3
+dme: durable medical equipment
+tp: tissue plasminogen
+cre: carbapenem-resistant Enterobacteriaceae
+tbili: total bilirubin
+ygd: young gastric diverticulum
+lido: lidocaine
+pcwp: pulmonary capillary wedge pressure
+ht: height
+avr/cabg: aortic valve replacement/coronary artery bypass grafting
+tls: tumor lysis syndrome
+ddx: differential diagnosis
+yof: year-old female
+ll: lower limb
+fr: French
+incr: increase
+dt: delirium tremens
+a-: anion
+xr: X-ray
+d/i: dextrose in water
+ticu: trauma intensive care unit
+lcs: low concentration supplement
+asc: ambulatory surgery center
+coag: coagulation
+dni: do not intubate
+ivs: interventricular septum
+bcx: blood culture
+nac: N-acetylcysteine
+aspf: aspartate
+e.c: enteric coated
+ips: ipsilateral
+omed: omeprazole
+sr/st: sustained release/short term
+vas: vasopressin
+vanco/zosyn: vancomycin/zosyn 
+cabgx4: coronary artery bypass graft times 4
+ldh: lactate dehydrogenase
+dp/pt: dorsalis pedis/posterior tibial
+anbx: antibiotics
+mgt: management
+haart: highly active antiretroviral therapy
+strep: streptococcus
+vas: vasopressin
+transcath: transcatheter
+ez: esomeprazole
+pc: after meals
+ganz: Ganz catheter
+inj: injection
+cat: computerized axial tomography
+twi: T-wave inversion
+cabg: Coronary Artery Bypass Graft
+c-section: Cesarean Section
+ardsnet: Acute Respiratory Distress Syndrome Network
+aa: Amino Acid
++loc: Loss of Consciousness
+gvhd: Graft-versus-Host Disease
+h20: Water
+ob: Obstetrics
+heent: Head, Eyes, Ears, Nose, and Throat
+gu/gi: Genitourinary/Gastrointestinal
+hgba1c: Hemoglobin A1c
+p.: After 
+nsr/st: Normal Sinus Rhythm/ST segment 
+ccc-slp: Certificate of Clinical Competence - Speech-Language Pathology
+albuterol/atrovent: Albuterol/Atrovent is a combination of bronchodilator medications used in inhalers.
+d/ced: Discontinued
+cp/sob: Chest Pain/Shortness of Breath
+vbg: Venous Blood Gas
+aids: Acquired Immune Deficiency Syndrome
+pt/family: Patient/Family
+q12: Every 12 hours
+hida: Hepatobiliary Iminodiacetic Acid 
+bue: Bilateral Upper Extremities
+aps: Antiphospholipid Syndrome
+c7-t1: Cervical Vertebra 7 to Thoracic Vertebra 1
+q3h: Every 3 hours
+po/pr: By mouth/Per Rectum
+poe: Percutaneous Oesophagostomy
+tsh: Thyroid-Stimulating Hormone
+q3h: Every 3 hours
+po/pr: By Mouth/Per Rectum
+stroke/tia: Stroke/Transient Ischemic Attack
+v-paced: Ventricle Paced 
+p.o: Per Os 
+tof: Tetralogy of Fallot
++etoh: Positive for Ethanol 
+s-100: S100 protein
+l3-4: Lumbar vertebrae 3-4
+vl: Viral load
+ax: Axillary
+^chol: Elevated cholesterol
+fdg: Fluorodeoxyglucose
+glucoses: Glucose levels
+02:20: 2:20 AM 
+vfib: Ventricular fibrillation
+cvvhd: Continuous veno-venous hemodialysis
+pfo: Patent foramen ovale
+perla: Pupils equal, reactive to light and accommodation
+insp/exp: Inspiration/Expiration
+nect: Non-enhanced computed tomography
+eu: Exophthalmos unit
+viii: Factor VIII 
+alb: Albumin
+zoster: Herpes zoster 
+f/c: Fever/chills
+-pacing/icd: Pacing/Implantable cardioverter defibrillator
+azithro: Azithromycin
+std: Sexually transmitted disease
+low-density: Low-density lipoprotein 
+cbi: Continuous bladder irrigation
+s/sx: Signs/symptoms
+ddd: Degenerative disc disease
+cabg/avr: Coronary Artery Bypass Grafting/Aortic Valve Replacement
+avb: Atrioventricular Block
+dwi: Diffusion Weighted Imaging
+pnx: Pneumothorax
+nippv: Non-Invasive Positive Pressure Ventilation
+dcd: Donation After Circulatory Death
+lbp: Low Back Pain
+dm1: Diabetes Mellitus Type 1
+bbs: Beta-Blockers
+ibw: Ideal Body Weight
+mcq: Multiple Choice Questions
+rm: Room
+alk: Alkaline phosphatase
+l3-l4: Lumbar vertebrae 3 and 4
+w/d: Wet/Dry
+scc: Squamous Cell Carcinoma
+nsaid: Nonsteroidal Anti-inflammatory Drug
+olt: Orthotopic Liver Transplant
+adc: Adenocarcinoma
+pcom: Posterior Communicating Artery
+ces: Cauda Equina Syndrome
+c-: Cervical vertebra 
+d10: Dextrose 10% solution
+24hr: 24-hour
+ugi: Upper Gastrointestinal
+ivig: Intravenous Immunoglobulin
+ophth: Ophthalmology
+r/a: Rheumatoid Arthritis
+extrav: Extravasation
+d51/2ns: Dextrose 5% in Half Normal Saline
+map/dvt: mean arterial pressure/deep vein thrombosis
+s/o: shortness of
+a+o: alert and oriented
+mip: maximum intensity projection
+rf: rheumatoid factor
+imi: intramuscular injection
+chol: cholesterol
+aka: also known as
+nkfa: no known food allergies
+jvd: jugular venous distension
+pod1: post-operative day 1
+r/i: rule in or rule out
+i+o: intake and output
+ins: insulin
+asthma/copd: asthma/chronic obstructive pulmonary disease
+q15min: every 15 minutes
+mls/hr: milliliters per hour
+benzo: benzodiazepine
+pres: pressure
+pleth: plethysmograph
+pox: pulse oximetry
+i/e: inspiratory to expiratory ratio
+w/c: wheelchair
+m.s.: morphine sulfate
+aao: awake, alert, and oriented
+aox3: alert and oriented to person, place, and time
+lb: pound
+dlp: direct laryngoscopy
+fbr: foreign body removal
+ar: atrial rate
+b/s: breath sounds
+p1: pulmonic first sound
+fxn: function
+hsv: herpes simplex virus
+qod: every other day
+d3: third day
+cvc: central venous catheter
+sa: sinoatrial
+ej: ejection fraction
+u.o: urine output
+cvc: central venous catheter
+3lnc: 3 liters nasal cannula
+panc: pancreatic
+ucx: urine culture
+otc: over-the-counter
+derm: dermatology
+svg-diag: saphenous vein graft to the diagonal artery
+sero-sang: serosanguinous
+endo-: endoscopic
+rfa: radiofrequency ablation
+nash: non-alcoholic steatohepatitis
+a1c: hemoglobin A1c
+r-sided: right-sided
+c/v: cardiovascular
+a1c: hemoglobin A1c
+chem: chemistry
+++: moderate 
+labs-: laboratory tests
+q8hrs: every 8 hours
+-h/o: history of
+cpp: cerebral perfusion pressure
+mvo2: mixed venous oxygen saturation
+ild: interstitial lung disease
+psa: prostate-specific antigen
+cpap/psv: continuous positive airway pressure/pressure support ventilation
+pmi: point of maximum impulse
+gbm: glioblastoma multiforme
+ri: resistive index
+cpb: cardiopulmonary bypass
+fev1: forced expiratory volume in 1 second
+obl: obstruction
+a.fib: atrial fibrillation
+ptsd: post-traumatic stress disorder
+rbcs: red blood cells
+als: amyotrophic lateral sclerosis
+ro: rule out
+pvi: pulmonary vein isolation
+nahco3: sodium bicarbonate
+/hr: per hour
+pet-ct: Positron Emission Tomography - Computed Tomography
+cml: Chronic Myeloid Leukemia
+pt/ot: Physical Therapy/Occupational Therapy
+roux-en-y: Roux-en-Y Gastric Bypass
+apap: Acetaminophen
+tld: Thermoluminescent Dosimeter
+hiv/aids: Human Immunodeficiency Virus/Acquired Immune Deficiency Syndrome
+pfts: Pulmonary Function Tests
+bp=: Blood Pressure
+a-paced: Atrial Paced
+mtt: Methyltetrazol Test
+os: Oculus Sinister
+aaox3: Alert, Awake, and Oriented times 3 
+tr/potassium: Total Renal/Potassium
+post-cath: Post-Catheterization
+s/c: Subcutaneous
+ctp: Computed Tomography Perfusion
+d-dimer: D-Dimer Test 
+rhabdo: Rhabdomyolysis
+/abd/para: Abdominal Paracentesis
+i/s: Inspiratory Stridor
+post-intubation: After Intubation
+gdc: Guglielmi Detachable Coil 
+kcals/: Kilocalories per
+v/s: Vital Signs
+mbue: Microscopic Blood Urine Examination
+vicu: Vascular Intensive Care Unit 
+sscp: Single Strand Conformation Polymorphism 
+emt: Emergency Medical Technician
+exlap: Exploratory Laparotomy
+v/s: Vital Signs
+d+i: Dextrose and Insulin
+hga1c: Hemoglobin A1c
+il-2: Interleukin-2
+fo: Fistula Output 
+pa.: Pulmonary Artery 
+tias: Transient Ischemic Attacks
+adenoca: Adenocarcinoma
+nsr-st: Normal Sinus Rhythm with ST changes
+snds: Short Neck Dysplasia Syndrome 
+ancef: Cefazolin 
+evac: Evacuation
+subq: Subcutaneous
+ck-mb: Creatine Kinase-MB
+esbl: Extended-Spectrum Beta-Lactamase
+svg-rca: Saphenous Vein Graft-Right Coronary Artery
+tbi: Traumatic Brain Injury
+tlso: Thoracolumbosacral Orthosis
+hfa: Hydrofluoroalkane
+n/s: Normal Saline
+int: Intermittent
+cabgx2: Coronary Artery Bypass Graft x2
+hsm: Hepatosplenomegaly
+ia: Intra-Arterial
++csm: Positive Circulation, Sensation, and Movement
+slp: Speech Language Pathologist
+norepi: Norepinephrine
+gre: Gradient Recalled Echo 
+-htn: Hypertension
+trach/peg: Tracheostomy/Percutaneous Endoscopic Gastrostomy
+l2-3: Lumbar Vertebrae 2-3
+osm: Osmolarity
+rr=: Respiratory Rate Equals
+ptbd: Percutaneous Transhepatic Biliary Drainage
+s+s: Signs and Symptoms
+trv: Tricuspid Regurgitant Velocity
+po/iv: Per Oral/Intravenous
+nif: Negative Inspiratory Force
+v3: Trigeminal Nerve - Third Branch 
+pbec: Peripheral Blood Eosinophil Count
+mcg/actuation: Micrograms per Actuation
+b-mode: Brightness-Mode 
+nonrebreather: Non-Rebreather Mask
+c/db: Clear to Deep Breathing
+mg+: Magnesium
+mtx: Methotrexate
+ppp: Packed Plasma Protein
+gj: Gastrojejunostomy
+fam: Family
+td: Tetanus Diphtheria
+i.e: Id Est 
+s/hr: Systolic per Hour
+gi/gu-: Gastrointestinal/Genitourinary
+i.s: Incentive Spirometry
+siadh: Syndrome of Inappropriate Antidiuretic Hormone Secretion
+afib/flutter: Atrial Fibrillation/Atrial Flutter
+tnsf: Transferred
+svv: Stroke Volume Variation
+gtc: Generalized Tonic-Clonic
+q8hr: every 8 hours
+d/cd: discontinued
+mg/kg/hour: milligrams per kilogram per hour
+c5/c6: cervical vertebrae 5 and 6
+c6/7: cervical vertebrae 6 and 7
+fem-: femoral 
+heme/onc: hematology/oncology
+nimv: non-invasive mechanical ventilation
+units/ml: units per milliliter
+clinda: clindamycin
+disp: dispense
+tng: nitroglycerin
+pars: pars interarticularis 
+mac: minimum alveolar concentration
+ess: endoscopic sinus surgery
+rbld: reblooded
+pul: pulmonary 
+hdr: high dose rate 
+ivda: intravenous drug abuse or intravenous drug addict
+defib: defibrillation
+pboots: pneumatic boots
+ct-guided: computed tomography-guided
+edh: epidural hematoma
+hr/bp: heart rate/blood pressure
+u/hr: units per hour
+ai: artificial intelligence
+afb: acid-fast bacilli
+hemo: hemoglobin
+intraabd: intraabdominal
+nt/nd: nontender/nondistended
+dtv: deep tendon reflexes
+trache: trachea
+extub: extubation
+yr.: year
+rxn: reaction
+po4: phosphate
+sb/sr: sinus bradycardia/sinus rhythm
+ect: electroconvulsive therapy
+c/c/e: cough/cold/earache
+pv: portal vein
+gluc: glucose
+post-cabg: post-coronary artery bypass graft
+t-sicu: trauma-surgical intensive care unit
+hct: hematocrit
+igg: immunoglobulin G
+iga: immunoglobulin A
+s3: third heart sound
+micu/sicu: medical intensive care unit/surgical intensive care unit
+dccv: direct current cardioversion
+lis: laparoscopic intersphincteric resection
+cn: cranial nerve
+rhc: right heart catheterization
+dccv: direct current cardioversion
+paco2: partial pressure of carbon dioxide
+ckmb: creatine kinase MB isoenzyme
+b/min: beats per minute
+uprbc: packed red blood cells
+dfa: direct fluorescent antibody
+phtn: pulmonary hypertension
+w/d/i: wet/dry/intact
+cmr: cardiac magnetic resonance
+ceftaz: ceftazidime
+h2: histamine-2
+cfa: common femoral artery
+status-post: after a specific event or procedure
+pmr: polymyalgia rheumatica
+dvt/pe: deep vein thrombosis/pulmonary embolism
+hocm: hypertrophic obstructive cardiomyopathy
+ras: renin-angiotensin system
+tsurg: thoracic surgery
+pleurx: PleurX drain 
+sxs: symptoms
+eps: extrapyramidal symptoms
+o-: blood type O negative
+allo: allograft or alloimmunity
+sb/p: systolic blood pressure
+d/c'ed: discharged
++gag: positive gag reflex
++uti: positive urinary tract infection
+smx/tmp: sulfamethoxazole/trimethoprim
+gtube: gastric tube
+itp: idiopathic thrombocytopenic purpura
+pred: prednisone
+nbps: non-binding price suggestion
+va: visual acuity
+mos: months
+tka: total knee arthroplasty
+tah/bso: total abdominal hysterectomy/bilateral salpingo-oophorectomy
+ln: lymph node
+ibs: irritable bowel syndrome
+fhpa: family history, physical examination, and allergies
+nhl: non-Hodgkin's lymphoma
+t.: temperature
+ch: congestive heart
+ifgd: impaired fasting glucose diabetes
+isc: ischemic
+anginal: angina
+ischial: ischium
+cor: coronary
+npw: normal pressure wave
+scd: sudden cardiac death
+hr-: heart rate
+pshx: past surgical history
+rl: right lower
+ocd: obsessive-compulsive disorder
+les: lower esophageal sphincter
+ace-i: angiotensin-converting enzyme inhibitor
+avms: arteriovenous malformations
+usg: ultrasonography
+cult: culture
+gda: gastroduodenal artery
+bbb: bundle branch block
+cga: comprehensive geriatric assessment
+neuro/pain: neurology/pain
+etoh: ethyl alcohol
+sbr: short bowel resection
+uti: urinary tract infection
+w/w: wet weight
+osmo: osmolarity
+mibi: Methoxyisobutylisonitrile Scan
+neob: nebulizer
+bp-: blood pressure
+ues: upper esophageal sphincter
+yr-old: year-old
+avl: augmented vector left
+2lnp: 2 lymph node positive
+anticoag: anticoagulation
+02sats: oxygen saturations
+peep/: positive end-expiratory pressure
+cpap+ps: continuous positive airway pressure plus pressure support
+lvedp: left ventricular end-diastolic pressure
+sirs: systemic inflammatory response syndrome
+bi-pap: bilevel positive airway pressure
+pyelo: pyelogram or pyelonephritis
+/fx: fracture
+hb: hemoglobin
+intra-abd: intra-abdominal
+-hyperlipidemia: Hyperlipidemia
+hepc: Hepatitis C
+sdh/sah: Subdural Hematoma/Subarachnoid Hematoma
+a-flutter: Atrial Flutter
+tmj: Temporomandibular Joint
+v/q: Ventilation/Perfusion
+epo: Erythropoietin
+tts: Transdermal Therapeutic System
+roux: Roux-en-Y 
+c1-c2: Cervical vertebrae 1 and 2
+m/r/g: murmur/rubs/gallops (often used in a cardiac exam context)
+adhd: Attention Deficit Hyperactivity Disorder
+piv's: Peripheral Intravenous catheters
+ca++: Calcium
+ivab: IV antibiotics 
+hct=: Hematocrit
+gyn: Gynecology
+vq: Ventilation-Perfusion
+tc-99m: Technetium-99m 
+fx/dislocation: Fracture/Dislocation
+svg-om1: Saphenous Vein Graft to Obtuse Marginal 1 
+cath-: Catheterization
+bp/hr: Blood pressure per hour 
+cabgx1: Coronary artery bypass graft x 1 
+mtp: Metatarsophalangeal joint
+s/w: Seen with
+jvg: Jugular venous distention or Jugular venous pressure
+cc/hour: cubic centimeters per hour
+h/h: hemoglobin and hematocrit
+nchct: not a commonly recognized medical abbreviation, can't expand
+atx: not a commonly recognized medical abbreviation, can't expand
+rh: rhesus factor or relative humidity 
+tc: total cholesterol or T-cell 
+02sat: oxygen saturation
+83m: not a commonly recognized medical abbreviation, can't expand
+30mcg/kg/min: 30 micrograms per kilogram per minute
+scv: subclavian vein
+fc: Foley catheter 
+ntnd: not a commonly recognized medical abbreviation, can't expand
+pcxr: portable chest X-ray
+ox2: on oxygen 
+l/s: lung sounds 
+acei: angiotensin-converting enzyme inhibitor
+icps: intracranial pressure monitors 
+sah/sdh: subarachnoid hemorrhage/subdural hematoma
+g-j: gastro-jejunal
+ggt: gamma-glutamyl transferase
+respir: respiration 
+dep: depression 
+ptfe: polytetrafluoroethylene
+poba: plain old balloon angioplasty
+nebh: nebulizer
+wwm: wet-to-wet moisture 
+pmh/psh: Past Medical History/Past Surgical History
+feso4: Ferrous Sulfate
+amd: Age-related Macular Degeneration
+pod2: Postoperative Day 2
+vt/vf: Ventricular Tachycardia/Ventricular Fibrillation
+esr: Erythrocyte Sedimentation Rate
+jtube: Jejunostomy Tube
+solu-medrol: Methylprednisolone
+cmc: Carpometacarpal
+pnas: Per Nasum 
+aed: Automated External Defibrillator
+i/os: Inputs/Outputs
+mcv: Mean Corpuscular Volume
+a.c.e: Angiotensin-Converting Enzyme
+ncm: Nursing Care Management
+l3-s1: Lumbar vertebrae 3 to Sacral vertebrae 1
+mg/24: milligrams per 24 hours
+fev1/fvc: Forced Expiratory Volume in 1 second/Forced Vital Capacity
+upj: Ureteropelvic Junction
+pm-: Post Meridiem 
+lcsw: Licensed Clinical Social Worker
+ct/cta: Computed Tomography/Computed Tomography Angiography
+6lnc: 6 Liter Nasal Cannula 
+tca: Tricyclic Antidepressants
+ox1: Oriented to person 
+l4/l5: Lumbar vertebrae 4 and 5
+2l/min: 2 Liters per minute
+dept: Department
+dil: dilution
+2v: two vessel
+indep: independent
+abn: abnormal
+ret: reticulocyte
+gt: gastric tube
+midnite: midnight
+abd/pel/lo: abdomen/pelvis/lower 
+nos: not otherwise specified
+hha: home health agency
+-echo: echocardiogram
+-cad: coronary artery disease
+pre/op: preoperative
+gi/endo: gastrointestinal/endoscopy
+f/u: follow up
+q2-4: every 2-4 hours
+cpm: continuous passive motion
+pre/op: preoperative
+55m: 55 male 
+8cm: 8 centimeters
+tl: thoracolumbar
+coughing/deep: coughing/deep breathing
+mgus: monoclonal gammopathy of undetermined significance
+ddavp: desmopressin
+lad/svg-: left anterior descending/saphenous vein graft
+c/f: compare to/follow-up
+sao2=: arterial oxygen saturation
+cab: coronary artery bypass
+alfa: alpha
+hba1c: hemoglobin A1C
+nsclca: Non-Small Cell Lung Cancer
+vsd: Ventricular Septal Defect
+plv: Positive Liquid Ventilation
+fxkd: Fixed 
+sbp: Systolic Blood Pressure
+mtg: Meeting
+ctpa: Computed Tomography Pulmonary Angiography
+nvd: Normal Vaginal Delivery
+epogen: Erythropoietin
+t2/flair: T2 Fluid Attenuated Inversion Recovery 
+txp: Transplant
+epoetin: Erythropoietin
+r: Right
+lbm: Lean Body Mass
+bso: Bilateral Salpingo-Oophorectomy
+ivpb: Intravenous Piggyback
+cms: Centimeters
+uric: Uric Acid 
+c/y/u: Clean/Catch Urine
+inpt: Inpatient
+fvc: Forced Vital Capacity
+imv: Intermittent Mandatory Ventilation
+svc/ra: Superior Vena Cava/Right Atrium
+pa/lat: Posteroanterior/Lateral 
+ue/le: Upper Extremity/Lower Extremity
+q3hrs: every 3 hours
+1-avr: lead 1- atrioventricular right
+sb-sr: sinus bradycardia - sinus rhythm
+lma: laryngeal mask airway
+edg: esophagogastroduodenoscopy
+q12hrs: every 12 hours
+lt.: left
+ecoli: Escherichia coli
+ecgs: electrocardiograms
+sem: systolic ejection murmur
+t2dm: type 2 diabetes mellitus
+avr/mvr: aortic valve replacement/mitral valve replacement
+postobstructive: post-obstructive
+140-180: 140 to 180
+sphincter: anal sphincter 
+/5: out of 5 
+d:65: day 65
+xcl: exclude
+d:60: day 60
+age-: age-related
+dob: date of birth
+ibd: inflammatory bowel disease
+nka: no known allergies
+0030: 00:30 or 12:30 AM
+heme-onc: hematology-oncology
+w/h/o: with history of
+mobitz: Mobitz type 
+oa/sda: osteoarthritis/sick day management 
+deg: degree
+gu-foley: genitourinary Foley catheter
+b.i.d: bis in die 
+pcm: paracetamol
+8.5mm: 8.5 millimeters
+200j: 200 joules
+atp: adenosine triphosphate
+aica: anterior inferior cerebellar artery
+.3: point three 
+mph: miles per hour
+acl: anterior cruciate ligament
+micu-6: medical intensive care unit - 6
+copd/asthma: chronic obstructive pulmonary disease/asthma
+abxs: antibiotics
+iud: intrauterine device
+fu: follow up
+e.d: emergency department
+ifa: indirect fluorescent antibody
+tace: transarterial chemoembolization
+ncat: normocephalic, atraumatic
+dtrs: deep tendon reflexes
+acl: anterior cruciate ligament
+micu-6: medical intensive care unit - 6
+copd/asthma: chronic obstructive pulmonary disease/asthma
+abxs: antibiotics
+iud: intrauterine device
+fu: follow up
+e.d: emergency department
+ifa: indirect fluorescent antibody
+tace: transarterial chemoembolization
+ncat: normocephalic, atraumatic
+dtrs: deep tendon reflexes
+neo/ntg: neo/nitroglycerin
+svg-om2: saphenous vein graft to the obtuse marginal 2
+bun/creatinine: blood urea nitrogen/creatinine
+t-wave: T wave 
+dbs: deep brain stimulation
+srr: sinus rhythm regular
+d5lr: dextrose 5% in lactated ringer's
+rsv: respiratory syncytial virus
+holter: holter monitor
++bsx4: positive bowel sounds in all four quadrants
+rjab: red juice at bedside 
+/09: this seems like a date notation and doesn't fit a specific medical abbreviation
+urn: urine
++dp/pt: positive dorsalis pedis/posterior tibialis pulses
+m3: third molar 
+c+s: culture and sensitivity
+oob-chair: out of bed to chair
+3l/min: 3 liters per minute 
+jps: jugular venous pressure or joint position sense based on context
+abi: ankle-brachial index
+uvj: ureterovesical junction
+s/q: subcutaneous
++dyslipidemia: positive for dyslipidemia
+lungs: lungs
+cpks: creatine phosphokinases
+pb: peripheral blood
+hct-: hematocrit
+svn: small volume nebulizer
+proc: procedure
+dht: dihydrotestosterone
+nu: nurse unit
+ahpb: antihypertensive blood pressure
+duoneb: combination of albuterol and ipratropium bromide
+tomography: tomography
+dat: dopamine transporter
+p-ephed: pseudoephedrine
+carb: carbohydrate
+a/a/o: alert, awake, and oriented
+pcis: percutaneous coronary interventions
+hydroxyurea: hydroxyurea
+nephrogram: nephrogram
+w/3d: with three-dimensional
+rxed: prescribed
+sd: standard deviation
+ox2-3: oxygen 2-3 liters per minute
+wma: wall motion abnormality
+antbx: antibiotics
+enemas: enemas
+igm: immunoglobulin M
+clx: clinical exam
+pe/dvt: pulmonary embolism/deep vein thrombosis
+hcl: hydrochloride
+cfv: common femoral vein
+cabg/mvr: coronary artery bypass grafting/mitral valve replacement
+mic: minimum inhibitory concentration
+q2hours: every 2 hours
+q72h: every 72 hours
++3: 3+ pitting edema
+infx: infection
+ccb: calcium channel blocker
+iu: international unit
+bronchoalveolar: bronchoalveolar lavage
+sa02: arterial oxygen saturation
+fna: fine needle aspiration
+sb/nsr: sinus bradycardia/normal sinus rhythm
+c-scope: colonoscopy
+p.r.n: pro re nata 
+afib/aflutter: atrial fibrillation/atrial flutter
+wbc=: white blood cell count equals
+xc: cross country 
+c7/t1: cervical vertebrae 7/thoracic vertebrae 1
+arimidex: anastrozole 
+cabgx5: coronary artery bypass graft times 5
+mcg/kg/hour: micrograms per kilogram per hour
+rsbi-: rapid shallow breathing index
+q2-3hrs: every 2 to 3 hours
+q4-6hrs: every 4 to 6 hours
+tn: trigeminal neuralgia
+vps: ventriculoperitoneal shunt
+2a2v: 2 arteries and 2 veins 
+ivx1: intravenous times 1
+pip-tazo: piperacillin-tazobactam
+adl's: activities of daily living
+acls: Advanced Cardiac Life Support
+ak: Actinic Keratosis
+afib/rvr: Atrial Fibrillation with Rapid Ventricular Response
+g6pd: Glucose-6-Phosphate Dehydrogenase Deficiency
+h.pylori: Helicobacter pylori
+klonipin: Clonazepam 
+nsr/sb: Normal Sinus Rhythm with Sinus Bradycardia
+gym: Gymnasium 
+lomotil: Diphenoxylate/atropine 
+pneumovax: Pneumococcal vaccine
+atelectasis/scarring: Atelectasis and Scarring
+s:129: This seems like an unclear abbreviation. It might refer to a specific metric in a patient's data, but without more context, it's hard to determine.
+3-vessel: Three-vessel 
+iac: Intra-Arterial Chemotherapy
+aivr: Accelerated Idioventricular Rhythm
+mbi: Molecular Breast Imaging
+cad-s/p: Coronary Artery Disease Status Post 
+5-fu: 5-Fluorouracil
+ebv: Epstein-Barr virus
+vaso: vasopressor
+ctu: Clinical Teaching Unit 
+s/f: Status/Function
+ef: Ejection Fraction
+pmn: Polymorphonuclear leukocytes
+egfr: Estimated Glomerular Filtration Rate
+qh: Every hour
+iv/po: Intravenous/Per Os 
+mcg/kg/hr: micrograms per kilogram per hour
+trop-t: Troponin T
+r-chop: Rituximab, Cyclophosphamide, Hydroxydaunorubicin, Oncovin , and Prednisone
+avp: Arginine Vasopressin
+sob/dyspnea: Shortness of breath/Dyspnea
+gs: Gram stain
+b-blocker: Beta-blocker
+i/d: Incision and drainage
+apcs: Atrial premature complexes
+ul: Upper limb
+stm: Short-term memory
+sca: Spinocerebellar ataxia
+nrbm: No regular bowel movement
+ans: Autonomic nervous system
+y.o.f: Years old female
+nj: Nasojejunal
+plmt: Placement 
+glc: Glucose
+diag/therap: Diagnostic/Therapeutic
+phoslo: Calcium acetate 
+hrt: hormone replacement therapy
+in/out: intake and output
+c-pap: continuous positive airway pressure
+tob: tobacco
+iadls: instrumental activities of daily living
+c-pap: continuous positive airway pressure
+gn: glomerulonephritis
+jxn: junction
+rsxn: reaction
+rsp: respiratory
+gfr: glomerular filtration rate
+tg: triglycerides
+aprv: airway pressure release ventilation
+/o: without
+p02: partial pressure of oxygen
+uip: usual interstitial pneumonia
+gbs: Guillain-Barré syndrome
+wct: wide complex tachycardia
+a1c:5.7: glycated hemoglobin 5.7%
+nwb: non-weight bearing
+vanc/cefepime: Vancomycin/Cefepime
+pvr: Peripheral Vascular Resistance
+bls: Basic Life Support
+pip/pplat: Peak Inspiratory Pressure/Plateau Pressure
+crp: C-Reactive Protein
+pas: Pulmonary Artery Systolic
+ekg-: Electrocardiogram
+avr/asc: Aortic Valve Replacement/Aortic Stenosis Correction 
+g/j: Gastrojejunostomy
+c2/3: Cervical Spine Level 2/3
+-abg: Arterial Blood Gas
+s.p: Status Post
+epipen: Epinephrine Auto-Injector
+dced: Discontinued
+tma: Thrombotic Microangiopathy
+-hx: History
+proteinosis: Pulmonary Alveolar Proteinosis
+ct/mri: Computed Tomography/Magnetic Resonance Imaging
+phd: Doctor of Philosophy
+dni/dnr: Do Not Intubate/Do Not Resuscitate
+sob/doe: Shortness of Breath/Dyspnea on Exertion
+l3-l5: Lumbar vertebrae 3 to Lumbar vertebrae 5
+/p: per 
+v5: lead V5 
+beta-blockers: Beta-Adrenergic Blocking Agents
+vte: Venous Thromboembolism
+chemo/radiation: Chemotherapy/Radiation therapy
+vte: Venous Thromboembolism
+q6hours: every 6 hours
+int/ext: internal/external
+cxrs: chest x-rays
+tdwb: touch-down weight bearing
+ppn: peripheral parenteral nutrition
+bsn: bachelor of science in nursing
+ast/alt: aspartate aminotransferase/alanine aminotransferase
+io: intraosseous
+s:111: sacral vertebra 111 
+g.i: gastrointestinal
+d:50: dextrose 50%
+o/p: outpatient
+bk: below knee
+trali: transfusion related acute lung injury
+timi: thrombolysis in myocardial infarction
+2vd: 2 vessel disease
+ii/vi: grade 2 out of 6 
+r/l: right/left
+mgso4: magnesium sulfate
+s:102: sacral vertebra 102 
+ijv: Internal Jugular Vein
+p/s: Pulse
+wc: Wheelchair
+str: Streptococcus 
+rpr: Rapid Plasma Reagin 
+da: Dopamine 
+asl: Above Sea Level 
+osh-: Outside Hospital
+asl: Age/Sex/Location 
+hypotn: Hypotension
+mri: Magnetic Resonance Imaging
+hem/onc: Hematology/Oncology
+a/b: Aspiration/Biopsy
+ettube: Endotracheal Tube
+maa: Macroaggregated Albumin
+mcp: Metacarpophalangeal Joint
+dsng: Dressing 
+palps: Palpitations
+o2-: Oxygen
+hdl: High-Density Lipoprotein
+sob/cp: Shortness of Breath/Chest Pain
+echo-: Echocardiogram
+tte: Transthoracic Echocardiogram
+mri/a: Magnetic Resonance Imaging with Angiography
+sbos: Small Bowel Obstruction Syndrome
+fx's: Fractures
+o-neuro: Neurological Examination, oriented
+txfr: Transfer
+fwb: Full Weight Bearing
+plb: Pursed-Lip Breathing
+rvedp: Right Ventricular End-Diastolic Pressure
+hr: Heart Rate
+nsr: Normal Sinus Rhythm
+a1c: Hemoglobin A1c
+ga: Gestational Age
+chop: Cyclophosphamide, Hydroxydaunorubicin, Oncovin, and Prednisone/Prednisolone 
+dtpa: Diethylenetriaminepentaacetic Acid
+w/rvr: With Right Ventricular Resynchronization
+ngtube: Nasogastric Tube
+peds: Pediatrics
+hiv+: Human Immunodeficiency Virus Positive
+psv/cpap: Pressure Support Ventilation/Continuous Positive Airway Pressure
+m-w-f: Monday-Wednesday-Friday
+bs: blood sugar
+bm-: bowel movement
+mgs: milligrams
+ictal: pertaining to a seizure
+mi: myocardial infarction
+flr: floor
+pft: pulmonary function test
+pcw: pulmonary capillary wedge
+dlco: diffusing capacity of the lungs for carbon monoxide
+rosc: return of spontaneous circulation
+pmicu: pediatric medical intensive care unit
+rmca: right middle cerebral artery
+susp: suspension
+hlp: hyperlipidemia
+rny: Roux-en-Y 
+tah-bso: total abdominal hysterectomy-bilateral salpingo-oophorectomy
+a1c: hemoglobin A1c
+mcg/min: micrograms per minute
++blood: positive blood
+afib: atrial fibrillation
+dsa: digital subtraction angiography
+pt-: prothrombin time
+alpha-1: alpha-1 antitrypsin
+cgy: centigray
+taaa: thoracoabdominal aortic aneurysm
+uf: ultrafiltration
+svg-lad: saphenous vein graft to left anterior descending
+cholangioca: cholangiocarcinoma
+sjogren: Sjogren's syndrome
+cholangiography: cholangiogram
+ivabx: intravenous antibiotics
+mmol: millimole
+q3-4: every 3 to 4 hours
+bilroth: Bilroth I or II gastrectomy
+cbv: cerebral blood volume
+pivx2: peripheral intravenous catheters, twice
+ccath: cardiac catheterization
+dex: dexamethasone
+abd/pelv: abdomen/pelvis
+svo: single ventricle obstruction
+copd: chronic obstructive pulmonary disease
+mpa: mean pulmonary artery
+q6/hr: every 6 hours
+sub-q: subcutaneous
+gi: gastrointestinal
+aortoiliac: aortoiliac artery
+ectopy: cardiac ectopy
+rr18: respiratory rate 18
+lafb: left anterior fascicular block
+lhc: left heart catheterization
+ich/mass: intracerebral hemorrhage/mass
+epilepsy/sda: epilepsy/sudden death in adults
+l1-l4: lumbar vertebrae 1 to 4
+nms: neuroleptic malignant syndrome
+a+p: auscultation and percussion
+osms: osmolality
+2s: second heart sound
+nsr-: normal sinus rhythm
+prom: premature rupture of membranes
+ef: ejection fraction
+-esrd: end-stage renal disease
+iv/sc: intravenous/subcutaneous
+cvs-: cardiovascular system
+-leak: leak
+dnr/i: do not resuscitate/intubate
+ct-a: computed tomography angiography
+pkt: percutaneous kidney transplant
+svc/cavoatrial: superior vena cava/cavoatrial
+acas: anterior cerebral artery stenosis
+fent/midaz: fentanyl/midazolam
+pac/pvc: premature atrial contraction/premature ventricular contraction
+peep5: positive end-expiratory pressure of 5
+c+: complement component
+q1-2hr: every 1 to 2 hours
+etoh/substance: ethanol/substance
+o/e: on examination
+ivfb: intravenous fluid bolus
+f/c/s: fever/chills/sweats
+bcg: Bacillus Calmette-Guérin
+ptca/stent: percutaneous transluminal coronary angioplasty/stent
+intubated/on: intubated/on ventilator
+w/l: weight loss
+stv: sinus tachycardia variation
+ccrn: critical care registered nurse
+inr=: international normalized ratio
+dlbcl: diffuse large B-cell lymphoma
+h/d: hemodialysis
+bolus/gtt: bolus/drip 
+m/g/r: murmurs/gallops/rubs
+w/dsd: with drainage system
+-apical: apical 
+rac: radial artery catheter
+npo: nil per os 
+doxy: doxycycline
+antibxs: antibiotics
+movt: movement
+pacemaker/aicd: pacemaker/automated implantable cardioverter-defibrillator
+ptld: post-transplant lymphoproliferative disorder
+bw: body weight
+pafib: paroxysmal atrial fibrillation
+es: esophagus
+mips: minimally invasive procedures
+p/f: PaO2/FiO2 ratio 
+yd: yard
+pah: pulmonary arterial hypertension
+pacer/aicd: pacemaker/automatic implantable cardioverter defibrillator
+metop: metoprolol
+p/f: PaO2/FiO2 
+pp+: postprandial 
+wbat: weight-bearing as tolerated
+s1/s2: first and second heart sounds
+2d-echocardiogram: two-dimensional echocardiogram
+w/e: weekend
+mbp: mean blood pressure
+k/ca: potassium/calcium
+abd/chest: abdomen/chest
+hd9: hemodialysis 9
+neurochecks: neurological checks
+attg: antithymocyte globulin
+ris: risperidone
+lar: long-acting release
+ck/mb: creatine kinase-MB 
+tenofovir: tenofovir disoproxil fumarate 
+anticardiolipin: anticardiolipin antibody 
+c3-c7: Cervical vertebrae 3 through 7
+pacer/icd: Pacemaker/Implantable Cardioverter Defibrillator
+v1-v2: Lead V1 to V2 
+24-hour: 24 hour 
+z-pack: Azithromycin pack 
+g/i-: Gastrointestinal
+anti-htn: Anti-hypertensive 
+mg/kg/min: milligrams per kilogram per minute 
+mg-325: mg-325 milligrams 
+qwk: once a week
+emerg: emergency
+ci/co: cardiac index/cardiac output
+blp: basal lipid panel
+pip/tazo: piperacillin/tazobactam
+bact: bacteria
+nsgy: neurosurgery
+vdemand: ventricular demand
+mg/m2: milligrams per square meter
+il2: interleukin-2
+il: interleukin
+t12/l1: thoracic vertebra 12/lumbar vertebra 1
+bcc: basal cell carcinoma
+lnp: lymph node palpation
+cr:1.1: creatinine:1.1
+t+a: tonsils and adenoids
+shx: social history
+saphenofemoral: saphenofemoral junction
+reccs: recommendations
+w/r/r: wet/rhales/rhonchi
+ssdi: Social Security Disability Insurance
+n.p: nasopharyngeal
+n/v/abd: nausea/vomiting/abdominal
+cysto: cystoscopy
+rr20: respiratory rate 20
+mvr/cabg: mitral valve replacement/coronary artery bypass graft
+c1/c2: cervical vertebrae 1 and 2
+scvo2: central venous oxygen saturation
+ox1-2: oriented to person and place
+rpb: right pulmonary bronchus
+rvef: right ventricular ejection fraction
+wdwn: well-developed, well-nourished
+ppft: pulmonary function test
+sh/fh: social history/family history
+ohs: open heart surgery
+w/rn: with registered nurse
+sed: sedimentation rate
+hyperk: hyperkalemia
+w/pmhx: with past medical history
+w/sbp: with systolic blood pressure
+avr/: aortic valve replacement
+cta/ctv: computed tomography angiography/computed tomography venography
+gej: gastroesophageal junction
+lns: lymph nodes
+nnn: no new nodules
+q6hour: every 6 hours
+q6-8h: every 6-8 hours
+ros-: review of systems negative
+sxnd: sound
+w/a: with activity
+w/little: with little
+w/n: within
+wbc-: white blood cell count negative
+cp-: cerebral palsy 
+t5-6: thoracic vertebrae 5-6
+t8-t9: thoracic vertebrae 8-9
+avodart: Dutasteride 
+chlorhex: chlorhexidine
+pod3: post-operative day 3
+cardio-pulm: cardio-pulmonary
+dialyze: dialysis
+nsr-st.: normal sinus rhythm with ST changes 
+uo-: urine output 
+-ekg: electrocardiogram
+d/a: discontinue/advise 
+trx: treatment 
+noncardiogenic: non-cardiogenic
+radiosurgery: radio-surgery
+pneumoniae: Streptococcus pneumoniae
+caco3: calcium carbonate
+cyclosporin: cyclosporine
+ddimer: D-dimer
+pulm/cardiac: pulmonary/cardiac
+dialy: dialysis 
+pn: parenteral nutrition
+urologist: urology 
+alb/atro: albuterol/atropine
+cabgx: coronary artery bypass graft times the number indicated 
+-omeprazole: Omeprazole
+p.t: physical therapy
+c4-c6: cervical vertebrae 4 to 6
+3x/day: 3 times per day
+peep/5: positive end-expiratory pressure of 5
+abd-soft: abdomen soft
+2l/m: 2 liters per minute
+dif: differential
+s/40-50: saturation 40-50%
+w/ivf: with intravenous fluids
+rs: respiratory syncytial
+eb: Epstein-Barr
+mu: milliunit
+cbf: cerebral blood flow
+out-pt: outpatient
+npo-: nothing by mouth
+i+d: incision and drainage
+pvc/pac: premature ventricular contraction/premature atrial contraction
+meq./hour: milliequivalents per hour
+wnl-: within normal limits
+emg: electromyography
+t/l: thoracic/lumbar
+ssc: subcutaneous
+alkalemia: a condition in which the blood is too alkaline
+mcg: micrograms
+dx'ed: diagnosed
+b-12: Vitamin B-12
+suboxone: a brand name for a prescription drug used to treat opioid dependence
+c/o: complains of
+arteriosclerosis: hardening of the arteries
+asx: asymptomatic
+chf: congestive heart failure
+cpap+psv: Continuous Positive Airway Pressure + Pressure Support Ventilation
+ocp: oral contraceptive pill
+rhf: right heart failure
+evlauate: 
+ffps: fresh frozen plasma
+phosphorous: an essential mineral, though "phosphorus" is the more commonly accepted spelling for the element
+t.o: take out
+rn/md: registered nurse/medical doctor
+a1c: Hemoglobin A1c
+ap/lat: anteroposterior/lateral
+pacs/pvcs: premature atrial contractions/premature ventricular contractions
+le's: lower extremities
+f/e/n: fluid/electrolyte/nutrition
+97/51: 97 over 51 blood pressure measurement
+40-80cc/hr: 40 to 80 cubic centimeters per hour
+70/50: 70 over 50 blood pressure measurement
+105/61: 105 over 61 blood pressure measurement
+70-: possibly a blood pressure or other measurement but unclear
+svg-d1: saphenous vein graft to first diagonal artery
+hr-nsr: heart rate - normal sinus rhythm
+etco2: end-tidal carbon dioxide
+a1c:5.8: Hemoglobin A1c with a value of 5.8
+w/abx: with antibiotics
+non-prod: non-productive
+1,032: a numerical value, no expansion needed
+a-wires: possibly referring to a type of wire or catheter, not clear
+tevar: thoracic endovascular aortic repair
+90/52: 90 over 52 blood pressure measurement
+g+: gram positive
+115/55: 115 over 55 blood pressure measurement
+140/90: 140 over 90 blood pressure measurement
+so2: oxygen saturation
+mg-unit: milligram unit
+2x/week: two times per week
+mrsa: positive for Methicillin-resistant Staphylococcus aureus
+prns: pro re nata 
+x1-: one time or single time, exact expansion may vary based on context
+c4-t1: cervical vertebrae 4 to thoracic vertebrae 1
+q2-4h: every 2 to 4 hours
+82/43: 82 over 43 blood pressure measurement
+86/50: 86 over 50 blood pressure measurement
+pmh-: past medical history
+109/55: 109 over 55 blood pressure measurement
+81mg/d: 81 milligrams per day
+129/64: 129 over 64 blood pressure measurement
+96/55: 96 over 55 blood pressure measurement
+dc/d: Discharge Date 
+copd/emphysema: Chronic Obstructive Pulmonary Disease/Emphysema
+pgy3: Postgraduate Year 3
+c02: Carbon Dioxide
+gi/gu/endo: Gastrointestinal/Genitourinary/Endocrine
+ptx-: Pneumothorax 
+lms: Leiomyosarcoma 
+rpda: Right Posterior Descending Artery
+achs: Accuchecks 
+/cabg: Coronary Artery Bypass Grafting
+pe-: Pulmonary Embolism 
+ct-head: Computed Tomography of the head
+mg/kg/hr: Milligrams per Kilogram per Hour
+ercps: endoscopic retrograde cholangiopancreatography
+chd: coronary heart disease
+mpv: mean platelet volume
+bp/: blood pressure
+ddi: didanosine
+dir: dose interruption and reduction
+sr-: sustained release
+-osa: obstructive sleep apnea
+bldg: building
+ob-: obstetrics
+ivcd: intraventricular conduction delay
+2-d: two-dimensional
+ppfl: partial pressure of fluorine
+cvp-: central venous pressure
+-d/c: discontinue
+pcos: polycystic ovary syndrome
+bsk: blood skin keratinocytes
+nifs: non-invasive face shield
+s:98: saturation 98%
+w/am: with morning
+w/inhalation: with inhalation
+asa/: acetylsalicylic acid
+bcx2: blood cultures x2
+pt.: patient
+tmp/smx: trimethoprim/sulfamethoxazole
+sob-: shortness of breath
+rls: restless leg syndrome
+ecasa: enteric-coated acetylsalicylic acid
+cmml: chronic myelomonocytic leukemia
+ct-scan: computed tomography scan
+rdw: red cell distribution width
+fsgs: focal segmental glomerulosclerosis
+ciwas: Clinical Institute Withdrawal Assessment
+ba: barium
+ix: investigation
+bd: twice daily
+npc: nasopharyngeal carcinoma
+pmb: postmenopausal bleeding
+szs: seizures
+cv-vss: cardiovascular vital signs stable
+lytes/hct: electrolytes/hematocrit
+gu-indwelling: genitourinary indwelling
+dm-ii: diabetes mellitus type II
+atc: around the clock
+pna/infiltrate: pneumonia/infiltrate
+oupt: outpatient
+cacl: calcium chloride
+szs: seizures
+cv-vss: cardiovascular vital signs stable
+pmb: postmenopausal bleeding
+w/sob: with shortness of breath
+c+d: culture and sensitivity
+a-febrile: without fever
+choledochojejunostomy: a surgical procedure connecting the common bile duct to the jejunum
+albuterol/: albuterol sulfate
+zometa: zoledronic acid
+fondaparinux: a type of anticoagulant or blood thinner
+cetriaxone: possibly a misspelling of ceftriaxone, an antibiotic
+ribavirin: an antiviral medication
+probnp: Pro-B-type natriuretic peptide
+k-dur: potassium chloride extended-release
+dd: differential diagnosis
+multidrug: refers to multiple drugs or resistance to multiple drugs
+99/61: Blood Pressure 99 over 61
+120/76: Blood Pressure 120 over 76
+120/61: Blood Pressure 120 over 61
+98/56: Blood Pressure 98 over 56
+93.6: Body Temperature 93.6°F 
+gcs3: Glasgow Coma Scale 3
+p-co: Partial Pressure of Carbon Dioxide
+111/54: Blood Pressure 111 over 54
+t3-4: Thyroid hormones T3 and T4
+eia: Enzyme Immunoassay
+poc/pt: Point of Care/Prothrombin Time
+80.6: Body Temperature 80.6°F 
+96/51: Blood Pressure 96 over 51
+80/38: Blood Pressure 80 over 38
+83.4: Body Temperature 83.4°F 
+122/69: Blood Pressure 122 over 69
+iia: Internal Iliac Artery
+w/min: With Murmurs
+pll: Posterior Longitudinal Ligament
+h/p: History/Physical
+permacath: Permanent Catheter
+w/known: With Known
+cp/: Chest Pain
+900units/hr: 900 Units per Hour
+2x/day: Twice per Day
+93/56: Blood Pressure 93 over 56
+sensipar: Cinacalcet
+123/62: Blood Pressure 123 over 62
+heme/resp: Hematology/Respiratory
+92/47: Blood Pressure 92 over 47
+ant/post: Anterior/Posterior
+98/57: Blood Pressure 98 over 57
+84/44: Blood Pressure 84 over 44
+104/51: Blood Pressure 104 over 51
+90/43: Blood Pressure 90 over 43
+hrct: High-Resolution Computed Tomography
+sob/wheezing: Shortness of Breath/Wheezing
+105/57: Blood Pressure 105 over 57
+87/44: Blood Pressure 87 over 44
+cvo2: Central Venous Oxygen
+t/: Temperature
+neuro/: Neurological
+n.b: Nota Bene 
+hr/rhythm/bp: Heart Rate/Rhythm/Blood Pressure
+pt/: Prothrombin Time
+nsc: Normal Saline Concentrate
+sxn'ing: Suctioning
+s: Saturation
+t+s: Type and Screen
++for: Positive for
+mg/day: Milligrams per day
+00:30: 00 Hours 30 Minutes
+dti: Direct Thrombin Inhibitor
+rih: Right Inguinal Hernia
+anti-platelet: Antiplatelet
+asso: Association 
+aorto-: Aorto
+ett/ogt: Endotracheal Tube/ Orogastric Tube
+/ra: Room Air
+l2-l4: Lumbar Vertebrae 2 to 4
+t5-t6: Thoracic Vertebrae 5 to 6
+nscl: Non-Small Cell Lung
+ms-: Multiple Sclerosis
+egd/colonoscopy: Esophagogastroduodenoscopy/Colonoscopy
+lmp: Last Menstrual Period
+c/v-: Cardiovascular
+dli: Donor Lymphocyte Infusion
+s:97: Saturation 97%
+ogt-: Orogastric Tube
+simv/ps: Synchronized Intermittent Mandatory Ventilation/Pressure Support
+g/u-: Genitourinary
+vad: Ventricular Assist Device
+bpd: Borderline Personality Disorder
+cva/tia: cerebrovascular accident/transient ischemic attack
+png: pneumogram 
+pi: pulmonary index
+sga: small for gestational age
+vt-: ventricular tachycardia
+hbp: high blood pressure
+bll: blood lead level
+aodm: adult-onset diabetes mellitus
+bmp: basic metabolic panel
+gp: general practitioner
+cm2/m2: square centimeter per square meter
+ivl: intravascular lithotripsy
+serve: Not an abbreviation in the medical context.
+latissimus: Not an abbreviation but refers to latissimus dorsi, a muscle in the back.
+ivl: intravascular lithotripsy 
+omfs: oral and maxillofacial surgery
+hellp: Hemolysis, Elevated Liver enzymes, and Low Platelets
+sr-sb: sinus rhythm with sinus bradycardia 
+ctropnt: cardiac troponin T 
+medical/surgical: Not an abbreviation but a classification often used in hospital settings.
+sda: subdermal abscess
+snp: sodium nitroprusside
+wh: wound healing
+svg-plv: saphenous vein graft-posterior lateral ventricle
+nihss: National Institutes of Health Stroke Scale
+simv/psv: synchronized intermittent mandatory ventilation/pressure support ventilation
+aorta/sda: aorta/subdermal abscess
+i.r: interventional radiology
+agap: anion gap
+nmba: neuromuscular blocking agents
+rai: radioactive iodine
+gpr: general practice residency
+picc: peripherally inserted central catheter
+svg-dg: saphenous vein graft-diagonal
+gcsf: granulocyte colony-stimulating factor
+lisinopril/hctz: lisinopril/hydrochlorothiazide
+ptu: propylthiouracil
+zocyn: piperacillin-tazobactam
+gdc-18: Guglielmi detachable coil 18 
+ctx/azithro: ceftriaxone/azithromycin
+mchc: mean corpuscular hemoglobin concentration
+i.e.: id est 
+mmt: manual muscle test
+nsr-sb: normal sinus rhythm with sinus bradycardia
+svg-ri: saphenous vein graft-right interior 
+auto-peep: auto-positive end-expiratory pressure
+mri/ct: magnetic resonance imaging/computed tomography
+pna/: pneumonia 
+l3-5: lumbar vertebrae 3-5
+a+ox2: alert and oriented to person and place
+cta/ctp: computed tomography angiography/computed tomography perfusion
+mlc: multi-leaf collimator
+neuropsych: neuropsychological
+npn-micu: no progress note - medical intensive care unit
+mg-: milligram 
+mcgs/kg: micrograms per kilogram
+sr-st.: sustained release - short term 
+ltc: long term care
+cg/min: centigrams per minute
+t.d: ter die 
+pulmo: pulmonary
+her-2/neu: human epidermal growth factor receptor 2
+fxrs: fractures
+klor-con: potassium chloride
+nv: nausea and vomiting
+v-demand: ventricular demand 
+icd/pacer: implantable cardioverter defibrillator/pacemaker
+ilws: inferior lead wall segment
+dui: driving under the influence
+oob: out of bed
+esrd: end-stage renal disease
+djrx: duodenojejunostomy
+d/c-:discontinue
+aspart:aspartate
+prn:pro re nata 
+sbp-90:systolic blood pressure 90
+chol.:cholesterol
+pht:pulmonary hypertension
+afl:atrial flutter
+mch:mean corpuscular hemoglobin
+cabg/:coronary artery bypass graft
+s:141:sodium 141 
+adivan: possibly a misspelling of Ativan, which is a brand name for lorazepam
+gw:gestational week 
+wn:well-nourished 
+f-18: fluorine-18
+fdg-avidity: fluorodeoxyglucose avidity
+app: appendectomy
+spon: spontaneous
+hygiene/skin: skin hygiene
+oscal: os-cal
+subdurals: subdural hematomas
+antipsychotic: antipsychotic medication
+immunosuppressants: immunosuppressant medications
+zomig: zolmitriptan 
+csl: corticosteroid
+long-acting: long-acting medication
+amylase/lipase: amylase and lipase cyclic: cyclic antidepressants
++n/v: nausea and vomiting
+crutches: crutch walking
+tremoring: hand tremoring
+cirrhotic-appearing: cirrhotic-appearing liver
+cortisporin: cortisporin otic 
+pna-: pneumonia
+regenerative: regenerative nodules 
+mx: maxillary
+pod0: post-operative day 0
+-lactate: lactate level
+resusc: resuscitation
+hcl/aspirin: hydrochloric acid/aspirin
+psc: primary sclerosing cholangitis
+pulses-: pulse palpable
+epiploic: epiploic appendagitis 
+paradoxus: pulsus paradoxus
+cpap/: continuous positive airway pressure
+intralesional: intralesional injection
+sob/increased: shortness of breath/increased
++fluctuation: positive fluctuation 
+golytley: goLYTELY 
+ckd/esrd: chronic kidney disease/end-stage renal disease
+nicu: neonatal intensive care unit
+w-: white cell count
+regurgitation\aortic: aortic regurgitation
+eso: esophageal
+osmotic: osmotic diuretics
+care/: care plan
+fallot: tetralogy of Fallot
+a+ox1: alert and oriented to person
+conc: concussion
+cardio/resp: cardiovascular/respiratory
+-levophed: norepinephrine 
+ifn: interferon
+history/fhp: history/family history and physical
+dg: diagnosis
+cki: creatinine kinase
+gtt/: gtt per 
+hyst: hysterectomy
+neuro/resp/cardio: neurologic/respiratory/cardiovascular
+bun/: blood urea nitrogen per
+ppm/icd: permanent pacemaker/implantable cardioverter-defibrillator
+foley-bsd: Foley balloon saline distention
+rr-: respiratory rate
+surgery-: surgery
+bipap-: bilevel positive airway pressure
+chemotx: chemotherapy
+resp-o2: respiratory oxygen
+tfts: thyroid function tests
+hcv/etoh: hepatitis C virus/ethanol
+ngt-: nasogastric tube
+og-: orogastric
+pain.pt: pain patient
+t2-hyperintensity: T2-weighted hyperintensity 
++prod: positive production
+av-paced: atrioventricular paced
+sbft: small bowel follow-through
+/cabgx1: coronary artery bypass graft times 1
+milr: milliliter 
+axox3: alert and oriented times 3
+ant/lat: anterior/lateral
+insp/: inspiration
+wegeners: Wegener's granulomatosis
+ara-c: cytarabine 
+v1-v4: leads V1 to V4 
+end-ileostomy: end ileostomy
+cvid: common variable immunodeficiency
+vanc/: vancomycin
+exfoliative: exfoliative dermatitis 
+clear/coarse: clear breath sounds or coarse breath sounds
+pmd: primary medical doctor or post-mortem delay
+req'ing: requiring
+hnv: high nutritional value 
+atelectasis/collapse: atelectasis or lung collapse
+s:154: systolic blood pressure 154
+d:85: diastolic blood pressure 85
+copd-: chronic obstructive pulmonary disease
+retic: reticulocyte
+w/long: with long
+sr/no: serial number 
+w/codeine: with codeine
+ecf: extracellular fluid
+fss: fluid and salt solution
+icm: iodinated contrast media
+r/out: rule out
+n/saline: normal saline
+vitk: vitamin K
+beta-2: beta-2 adrenergic agonist
+glycoprotein: glycoprotein IIb inhibitor
+70mcg/kg/min: 70 micrograms per kilogram per minute
+nb: newborn
+ivtpa: intravenous tissue plasminogen activator
+mc3: metacarpal 3
+anti-gbm: anti-glomerular basement membrane
+twf: three times a week
+wrm: warm
+s: subjective
+w/doppler: with Doppler
+si/sx: signs and symptoms
+-dm2: diabetes mellitus type 2
+l-mca: left middle cerebral artery
++ett: positive exercise tolerance test
+mmf: mycophenolate mofetil
+dbili: direct bilirubin
+2pivs: 2 peripheral intravenous
+cabg/mv: coronary artery bypass graft/mitral valve
+kcals/day: kilocalories per day
+5x/day: five times a day
+/mvr: mitral valve replacement
+i+o-uo: intake and output - urine output
+-prednisone: prednisone
+dva: distance visual acuity
+-cta: computed tomography angiography
+brpbr: bathroom privileges with bathroom restrictions
+afls: anterior fontanelle
+epis: epidurals
+pcp's: primary care physicians
+pla: platelet aggregation
+rta: renal tubular acidosis
+bsfs: bright red blood from the rectum 
+cvi: cerebral vascular insufficiency
+lft's: liver function tests
+xrt/chemo: radiation therapy/chemotherapy
+uti's: urinary tract infections
+antihtn: antihypertensive
+ct/mt: chemotherapy
+nsr/: normal sinus rhythm
+clin: clinic
+cv/resp-: cardiovascular/respiratory
+ophtho: ophthalmology
+s1-s2: first and second heart sounds
+anesth: anesthesia
+qac: quarter after cardioplegia
+g/gj/gi: gastric/gastrojejunostomy/gastrointestinal
+as/mr: aortic stenosis/mitral regurgitation
+fob: fecal occult blood
+ng-tube: nasogastric tube
+sds: standard deviations
+una: urine sodium
+rc: red cells
+ra-: rheumatoid arthritis
+d+c: dilation and curettage
+tfn: tibial nail
+l1/2: Lumbar 1/2
+c/c: chief complaint
+svc/right: Superior vena cava/right
+neuts: Neutrophils
+y/n: yes/no
+iv-: intravenous
+pvd: peripheral vascular disease
+d'cd: discharged
+d/cing: discharging
+vent-: ventilator
+opt: ophthalmology
+rvot: Right Ventricular Outflow Tract
+dmh: Diabetes Mellitus History
+guiac+: positive for guaiac test
+cdc: Centers for Disease Control and Prevention
+ptx: pneumothorax
+ruq/epigastric: right upper quadrant/epigastric
+pwb: partial weight bearing
+oltx: orthotopic liver transplant
+aicd/pacer: automatic implantable cardioverter-defibrillator/pacemaker
+opcabg: off-pump coronary artery bypass grafting
+hepb: hepatitis B
+epi-pen: epinephrine pen
+vitc: vitamin C
+q10: coenzyme Q10
+upc: urine pregnancy test
+p-comm: posterior communicating artery
+a1c: hemoglobin A1c
+lopresor: metoprolol 
+ddrt: digital data retrieval technology
+pva: polyvinyl alcohol
+fx/malalignment: fracture/malalignment
+chf/: congestive heart failure
+n/g: nasogastric
+t/p: temperature/pulse
+ppo: Preferred Provider Organization
+t-pa: Tissue Plasminogen Activator
+nkma: No Known Medication Allergies
+q4/hr: Every 4 hours
+pjp: Pneumocystis Jirovecii Pneumonia
+pml: Progressive Multifocal Leukoencephalopathy
+ltac: Long Term Acute Care
+copies/ml: Copies per milliliter
+plats: Platelets
+cystocele: Prolapse of the bladder into the vagina
+cp/sob/abd: Chest Pain/Shortness Of Breath/Abdominal
+if/when: If and When
+date/time: Date and Time
+creat: Creatinine
+double-j: Double-J stent
+c2-c5: Cervical Vertebrae 2 through 5
+tetralogy: Tetralogy of Fallot
+person/place/time/care: Oriented to Person, Place, Time, and Situation
+slp/s: Speech and Language Pathologist/Services
+vanc/zosyn/flagyl: Vancomycin/Piperacillin-Tazobactam/Metronidazole
+swanz: Swan-Ganz catheter
+ncp: Nursing Care Plan
+cpap/ips: Continuous Positive Airway Pressure/Intrathoracic Pressure Swing
+mca/aca: middle cerebral artery/anterior cerebral artery
+bp: blood pressure
+oob-c: out of bed with assistance
+pt/s: physical therapy/speech therapy
+ua/c: urinalysis and culture
+vbgs: venous blood gas samples
+peep/.4: positive end-expiratory pressure and fraction of inspired oxygen
+asa81: aspirin 81 mg
+aaa/taa: abdominal aortic aneurysm/thoracic aortic aneurysm
+turbt: transurethral resection of bladder tumor
+sts: Soft tissue sarcoma 
+rr:16: Respiratory rate: 16
+mohs: Mohs micrographic surgery
+tef: Tracheoesophageal fistula
+af/flutter: Atrial fibrillation/atrial flutter
+c5-t1: Cervical vertebrae 5 to Thoracic vertebrae 1 
+nas: Not otherwise specified 
+.45ns: 0.45% Normal Saline
+d50w: Dextrose 50% in water
+fnh: Focal nodular hyperplasia
+mri-: magnetic resonance imaging
+u/hr: units per hour
++u/a: positive urinalysis
+c-arm: C-arm fluoroscope
+ceftriax: ceftriaxone
+lpm: liters per minute
+85ml/hr: 85 milliliters per hour
+pckd: polycystic kidney disease
+ebus: endobronchial ultrasound
+lvef=: left ventricular ejection fraction
+subcu: subcutaneous
+-folic: folic acid
+-lactulose: lactulose
+w/po: with per os 
+bpap: bilevel positive airway pressure
++pt: positive physical therapy
+u/hr: units per hour
+chf/pna: congestive heart failure/pneumonia
+ck/troponin: creatine kinase/troponin
+ot/pt: occupational therapy/physical therapy
+axr: abdominal x-ray
+mrsa+: Methicillin-resistant Staphylococcus aureus positive
+e-coli: Escherichia coli
+rpa: retropharyngeal abscess
+levoflaxacin: levofloxacin
+babesia: Babesiosis 
+uop-: urine output
+eosinophils: eosinophilia 
+w/pca: with patient-controlled analgesia
+wpw: Wolff-Parkinson-White syndrome
+ax-fem: axillofemoral
+w/improvement: with improvement
+w/increasing: with increasing
++gpc: positive gram-positive cocci
+-hd: hemodialysis
+fistulagram: fistulography
+af/rvr: atrial fibrillation with rapid ventricular response
+vanc/gent: vancomycin/gentamicin
+w/propofol: with propofol
+p/t: physical therapy
+pna/copd: pneumonia/chronic obstructive pulmonary disease
+sda: same day admission
+takotsubo: takotsubo cardiomyopathy
+gtcs: generalized tonic-clonic seizures
+fio2/peep: fraction of inspired oxygen/positive end-expiratory pressure
+ua/uc: urinalysis/urine culture
+pth: parathyroid hormone
+aox2: alert and oriented to person and place
+hd: hemodialysis
+a1c: hemoglobin A1C
+sln: sentinel lymph node
+mvr/tvr: mitral valve replacement/tricuspid valve replacement
+b.a.: before afternoon 
+mcg/k/min: micrograms per kilogram per minute
+ivf-: intravenous fluid
+inr: international normalized ratio
+s: systolic 
+aca/mca: anterior cerebral artery/middle cerebral artery
+ao-: aorta
+wkness: weakness 
+mri/mra/mrv: magnetic resonance imaging/magnetic resonance angiography/magnetic resonance venography
+bsk: blood skin
+ecmo: extracorporeal membrane oxygenation
+l1/l2: lumbar vertebrae 1 and 2
+llsb: left lower sternal border
+lusb: left upper sternal border
+hhn: hand held nebulizer
+rsbi/sbt: rapid shallow breathing index/spontaneous breathing trial
+tod: time of death
+epap: expiratory positive airway pressure
+uffp: ultrafiltrate fresh frozen plasma
+op-: operative procedure
+/cabgx2: coronary artery bypass graft times 2
+aox1: alert and oriented to person
+pharesis: apheresis
+pheo: pheochromocytoma
+v-p: ventriculoperitoneal
+sdh-: subdural hematoma
+tmr: transmyocardial revascularization
+iv's: intravenous lines
+afib: atrial fibrillation
+ett/line: endotracheal tube/line
+emr: electronic medical record
+dj: duodenojejunostomy
+hct: hematocrit
+hitt: heparin-induced thrombocytopenia and thrombosis
+lopressor: metoprolol 
+aica-pica: anterior inferior cerebellar artery-posterior inferior cerebellar artery
+esr/crp: erythrocyte sedimentation rate/C-reactive protein
+dnr: do not resuscitate
+caa: coronary artery aneurysm
+csv: central serous chorioretinopathy 
+cpap-: continuous positive airway pressure
+gcs=3: Glasgow Coma Scale 
+ucg: umbilical cord gas
+w/p: with permission
+vpb: ventricular premature beat
+hp: history and physical
+churg-: Churg-Strauss syndrome
+cin: cervical intraepithelial neoplasia
+m/: meters
+st-: sinus tachycardia or st segment, depending on context
+mvd: mitral valve disease or microvascular decompression
+ck/trop: creatine kinase/troponin
+hpv: human papillomavirus
+10/+5: Ten positive out of five 
+c/d/b: clear to deep breathing 
+vh: ventricular hypertrophy
+clws: central line-associated bloodstream
+abx-: antibiotics
+perrl: pupils equal, round, reactive to light
+dur: dural or duramater
+estgfr: estimated glomerular filtration rate
+peep-5: positive end-expiratory pressure of 5 cm H2O
+uop: urine output
+a/l: aspirate and lavage
+ntg/heparin: nitroglycerin/heparin
+pvc-: premature ventricular contraction-
+normothermia: normal body temperature
+neutrophil: a type of white blood cell
+vanco/cipro/flagyl: vancomycin/ciprofloxacin/metronidazole
+nt/d: not to dictate 
+r/g: retrograde
+ivd: intervertebral disc
+abuser: not an abbreviation but refers to someone who misuses substances or exhibits harmful behavior
+pentothal: a brand name for thiopental, a barbiturate used for anesthesia
+ctap: CT angiography and perfusion
+follwo: likely a misspelling of "follow"
+.abd: abdomen
+cephalosporin: a class of antibiotics
+hd11: unclear in this context; there are various possibilities depending on the specific medical context
+post-pneumonectomy: after removal of a lung
+w/chronic: with chronic
+pse: portal-systemic encephalopathy 
+acth: adrenocorticotropic hormone
+a1c: hemoglobin A1C
+-psych: psychiatry
+spep: serum protein electrophoresis
+-ptt: partial thromboplastin time
+cmv/ac: cytomegalovirus/air conditioning 
+f/o: fever and/or 
+egd/: esophagogastroduodenoscopy
+sbe: subacute bacterial endocarditis
+tmt: treadmill test
+h/x: history
+metab: metabolism
+gc: gonorrhea and chlamydia
+~pt: patient
+q3days: every 3 days
+w/h: weight/height 
+c/os: complains of
+aml: acute myeloid leukemia 
+hco3-: bicarbonate
+dp/dt: rate of pressure change over time
+acd: anticoagulant citrate dextrose
+succs: succinylcholine
+ppm/aicd: permanent pacemaker/automatic implantable cardioverter defibrillator
+cxr/ct: chest x-ray/computed tomography
+m/k/m: morning, noon, evening 
+1gtt: one drop 
+-vanco: vancomycin 
+cc/cc: cubic centimeters per cubic centimeters
+c-sp: cervical spine
+bs-: blood sugar
+etoh: alcohol
+q30min: every 30 minutes
+q2-3hr: every 2 to 3 hours
+fa5: Factor V 
+dxed: diagnosed
+arom: active range of motion
+eac: external auditory canal
+sob: shortness of breath
+vpc: ventricular premature complex
+ni: non-invasive
+h+h: hemoglobin and hematocrit
+og-tube: orogastric tube
+ppv: positive pressure ventilation
+w/fair: with fair
+gib-: gastrointestinal bleeding
+s-s: systolic-systolic
+sttw: straight to the ward
+c/i: contraindication
+1avb: First degree atrioventricular block
+a/fib: atrial fibrillation
+afib: atrial fibrillation
+cmv: cytomegalovirus
+ct: computed tomography
+etco2: end-tidal carbon dioxide
+hct: hematocrit
+hmo: health maintenance organization
+ino: inotropic support
+leep: loop electrosurgical excision procedure
+lytes: electrolytes
+mri: magnetic resonance imaging
+neo: neosynephrine 
+ntg: nitroglycerin
+uta: urinary tract analgesic
+vs: vital signs
+o/d: overdose
+rr21: respiratory rate 21
+fio: fraction of inspired oxygen
+lytes-: electrolytes
+exlap/loa: exploratory laparotomy/lysis of adhesions
+o/d: overdose
+ct: computed tomography
+cto: chronic total occlusion
+peg/trach: percutaneous endoscopic gastrostomy/tracheostomy
+vt/: ventricular tachycardia
+peep: positive end-expiratory pressure
+vt/: ventricular tachycardia
+q4prn: every 4 hours as needed
+cppd: calcium pyrophosphate deposition disease
+avr/mvr/cabg: aortic valve replacement/mitral valve replacement/coronary artery bypass graft
+cpd: cephalopelvic disproportion
+b.i.d.: bis in die 
+6mp: 6-mercaptopurine
+ps: performance status
+et-tube:endotracheal tube
+t/c/db:turn, cough, deep breathe
+endotrachial:endotracheal
+icd/:implantable cardioverter-defibrillator
+cwia:clean wound, intact abdomen
+etoh/hcv:ethanol/hepatitis C virus
+1/2ppd:half pack per day
+gibs:Gastrointestinal bleeding
+amaurosis:Amaurosis fugax 
+si/sa:suicidal ideation/suicidal attempt
+h3:histamine 3 receptor
+portocath:port-a-cath 
+oximeter:pulse oximeter
+prb:packed red blood cells
+acetab:acetabulum
+ft4: free thyroxine
+hco: bicarbonate 
+pe/: pulmonary embolism 
+txf: transplant 
+suvmax: Standardized Uptake Value maximum
+m-f: Monday-Friday 
+t0: time zero 
+kdur: potassium chloride extended-release
+vvir: Ventricular Paced, Ventricular Sensed, Response to Inhibition 
+pgy: postgraduate year 
+sta: superficial temporal artery
+q3-4h: every 3 to 4 hours
+cis: carcinoma in situ
+2ndary: secondary
+t.i.d: three times a day
+ciloxan: ciprofloxacin 
+triamterene-hydrochlorothiazide: a combination drug used to treat hypertension
+ccs/hr: cubic centimeters per hour
+non-q: non-Q wave 
+3vessel: three-vessel 
+mra/mri: Magnetic Resonance Angiography/Magnetic Resonance Imaging
+dcm: dilated cardiomyopathy
+nephro: nephrology or nephrologist
+pcoms: posterior communicating arteries
+doa: dead on arrival
+vvs: vasovagal syncope
+rca-: right coronary artery
+a+: Type A positive blood group
+dm-2: diabetes mellitus type 2
+^sob: increased shortness of breath
+-a-line: arterial line
+eet: endotracheal tube
+picc: Peripherally Inserted Central Catheter
+ftn: Full Thickness Necrosis
+spc: Single Point of Contact
+t98.8: Temperature 98.8°F 
+d:40: Dose 40 
+bs=bilat: Breath Sounds Bilateral
+dc'd: Discontinued
+iii/iv: 3 out of 4 
+ij-: Internal Jugular 
+tid-: Three times a day
+pt/inr: Prothrombin Time/International Normalized Ratio
+ogt/ngt: Orogastric Tube/Nasogastric Tube
+enlargement/avr: Enlargement/Aortic Valve Replacement
+-peep=5: Positive End Expiratory Pressure = 5
+so4: Sulfate
+q8hours: Every 8 hours
+-ciwa: Clinical Institute Withdrawal Assessment
+bzd: Benzodiazepine
+cad/: Coronary Artery Disease/
+abg's: Arterial Blood Gases
+hct/: Hematocrit/
+t3n2: Tumor size, Lymph node involvement
+dbh: Dopamine Beta Hydroxylase
+/versed: Versed
+diaph: Diaphragmatic
+tbil: Total Bilirubin
+vitd: vitamin D
+pvd-: peripheral vascular disease
+copd/: chronic obstructive pulmonary disease
+cpk/mb: creatine phosphokinase myocardial band
+fev: forced expiratory volume
+kleb: Klebsiella 
+ivus: intravascular ultrasound
+klebs: Klebsiella 
+mrsa/vre: methicillin-resistant Staphylococcus aureus/vancomycin-resistant Enterococcus
+thrombophilia: a condition where the blood has an increased tendency to form clots
+ebstein: Ebstein's anomaly 
+pvl: periventricular leukomalacia
+w/pna: with pneumonia
+dementia-: dementia
+hemody: hemodynamic
+rug: retrograde urethrogram
+tt: thrombin time
+chf-diastolic: congestive heart failure-diastolic
+-ckd: chronic kidney disease
+eovist: a brand name for gadoxetate, a drug used in MRI
+gbp: gastric bypass 
+dt's: delirium tremens
+a/ox2: alert and oriented to person and place
+aaox2: alert and oriented to person and place
+sats-: oxygen saturations
+lpda: left pulmonary artery descending
+lpv: left portal vein
+hd-: hemodialysis
+l2-4: lumbar vertebrae 2 through 4
+dop/dop: dopamine/dopamine
+non-iv: non-intravenous
+bidnh: twice daily until having bowel movement
+c3-t1: cervical vertebra 3 to thoracic vertebra 1
+t2-t3: thoracic vertebrae 2 and 3
+icbg: iliac crest bone graft
+njt: nasojejunal tube
+exfix: external fixator
+pcm/icd: pacemaker/implantable cardioverter defibrillator
+c7-t4: cervical vertebra 7 to thoracic vertebra 4
+ihss: idiopathic hypertrophic subaortic stenosis
+rvh: right ventricular hypertrophy
+chf/copd: congestive heart failure/chronic obstructive pulmonary disease
+-po2: partial pressure of oxygen
+-pci: percutaneous coronary intervention
+iu/ml: international units per milliliter
+ptt-: partial thromboplastin time
+w/neo: with neomycin
+t-bili: total bilirubin
+tia-: transient ischemic attack
+esrd/hd: end-stage renal disease/hemodialysis
+c.dif: Clostridium difficile
+a.flutter: atrial flutter
+dm-: diabetes mellitus
+caltco2: could not identify this abbreviation
+dm-: diabetes mellitus
+ivrn: intravenous regional anesthesia 
+sdh/iph: subdural hematoma/intraparenchymal hemorrhage
+syn: syncope
+ipap: Inspiratory Positive Airway Pressure
+lca: Left Coronary Artery
+rcca: Right Common Carotid Artery
+lima-lad: Left Internal Mammary Artery to Left Anterior Descending artery 
+svg-: Saphenous Vein Graft
+aline-: Arterial line
+chemo/rad: Chemotherapy/Radiation
+lima-lad/svg-: Left Internal Mammary Artery to Left Anterior Descending artery/Saphenous Vein Graft
+w/onc: With oncology 
+-iddm: insulin-dependent diabetes mellitus
+ther-ex: therapeutic exercise
+ttp/hus: thrombotic thrombocytopenic purpura/hemolytic uremic syndrome
+vs-: vital signs
+c.cath: cardiac catheterization
+lps: lumbar punctures
+egds: esophagogastroduodenoscopy
++cdiff: positive for Clostridium difficile
+avr: aortic valve replacement
+n/v/abdominal: nausea/vomiting/abdominal
+lib: lips incision and drainage
+r-mca: right middle cerebral artery
+dss: docusate sodium
+-po: per os 
+venacavogram: venacavography
+sbp~: systolic blood pressure 
+dnr/dni-: do not resuscitate/do not intubate
+a1c:5.3: hemoglobin A1C
+etoh-related: alcohol related
+pna/acute: pneumonia/acute
+c-pain/: chest pain 
+liver/gb: liver/gallbladder
+^bp: increased blood pressure
+aov: aortic valve
+c/section: cesarean section
+ptx/effusions: pneumothorax/effusions
+vanco-: vancomycin 
+etiol: etiology
+atr: atrium
+non-stemi: non-ST elevation myocardial infarction
+t/t/s: tracheostomy/tube/size
+rxs: prescriptions
+pna/pneumonitis: pneumonia/pneumonitis
+flex/ext: flexion/extension
+ac/hs: before meals and at bedtime
+ef20: ejection fraction 20%
+dvt's: deep vein thromboses
+brca: breast cancer gene
+svg-dx: saphenous vein graft-diagonal
+w/temp: with temperature
+anemia-: anemia
+nco2: nasal cannula oxygen
+omi: old myocardial infarction
+hsc: hematopoietic stem cell
+pradaxa: brand name for dabigatran, an anticoagulant
+ct-abdomen/pelvis: computed tomography of abdomen and pelvis
+vanco/cefipime: vancomycin/cefipime svg-om1/om3: saphenous vein graft to obtuse marginal 1/obtuse marginal 3
+gerd/hiatal: Gastroesophageal reflux disease/Hiatal hernia
+l2-5: Lumbar vertebrae 2-5
+tah/xrt: Total abdominal hysterectomy/External radiation therapy
+interop: Intraoperative
+uti/urosepsis: Urinary tract infection/Urosepsis
+bppp: Benign paroxysmal positional vertigo
+svd: Spontaneous vaginal delivery
+defibrotide: Defibrotide 
+cna: Certified nursing assistant
+vanco/cefepime/flagyl: Vancomycin/Cefepime/Flagyl 
+vanco+cipro: Vancomycin + Ciprofloxacin
+externa: Typically refers to "otitis externa" which is an external ear infection
+lytes/: Electrolytes
+cabg-: Coronary artery bypass grafting
+dlif: Direct lateral interbody fusion 
+s:162: Possible reference to oxygen saturation but not certain without context
+heparin-induced: Referring to a condition called "Heparin-induced thrombocytopenia"
+cipro/vanco: Ciprofloxacin/Vancomycin
+st/sr: Sustained release 
+gerds: Gastroesophageal reflux disease
+c/0: Complains of
+cc: cubic centimeters
+le: leukocyte esterase
+maoi: monoamine oxidase inhibitor
+tr/mr: tricuspid regurgitation/mitral regurgitation
+soboe: shortness of breath on exertion
+hit+: heparin-induced thrombocytopenia 
+a1c: hemoglobin A1C
+meqs: milliequivalents
+srs: stereotactic radiosurgery
+a1c:6.4: glycated hemoglobin 6.4%
+tot: test of time or other interpretations depending on context
+cct: critical care team or continuous cardiac telemetry depending on context
+chads: often seen as CHADS2 or CHA2DS2-VASc, a score for estimating risk of stroke in patients with atrial fibrillation
+a-fib/flutter: atrial fibrillation/flutter
+a-lines: arterial lines
+abo: ABO blood group
+bmbx: bone marrow biopsy
+csection: cesarean section
+ett/ngt: endotracheal tube/nasogastric tube
+hx-: history of
+tbbx: transbronchial biopsy
+us-guided: ultrasound-guided
+vanco/flagyl: vancomycin/metronidazole
+abvd: Adriamycin, Bleomycin, Vinblastine, and Dacarbazine
+hct: Hematocrit
+fio2=1.0: Fraction of Inspired Oxygen = 1.0
+mcg/kg/mt: Micrograms per Kilogram per Minute
+sah/ivh: Subarachnoid Hemorrhage/Intraventricular Hemorrhage
+hip/sda: Hospital-Induced Pneumonia/Surgical Site Infection
+esrd-: End Stage Renal Disease-
+vpa: Valproic Acid
+rsi: Rapid Sequence Intubation
+nih: National Institutes of Health
+levphed: Norepinephrine
+cmv/assist: Cytomegalovirus/Assist
+l: liter
+mr/: Magnetic Resonance
+sbp-110: Systolic Blood Pressure 110
+i.j: Internal Jugular
+de-sat: Desaturation
+tis: Tissue
+2hour: 2 hour
+cardio/pulm: Cardiovascular/Pulmonary
+cer/carotid: Carotid Endarterectomy 
+aca-mca: Anterior Cerebral Artery - Middle Cerebral Artery
+c1-c3: Cervical vertebrae 1 to 3
+eis: Endoscopic Intraluminal Surgery 
+cerv: Cervical
+cpk/trop: Creatine Phosphokinase/Troponin
+hct: Hematocrit
+liv: Liver 
+w/judet: With Judet View 
+w/old: With Old
+rr~16: Respiratory Rate approximately 16
+w/wound: With Wound
+prc: packed red cells
+t+c: type and cross
+mg/2: milligrams per 2 
+intubation/sedation: intubation and sedation
+c/etoh: with alcohol
+c/by: caused by
+twaves: T-waves
+vdd: ventricular demand dual 
+gu/renal: genitourinary/renal
+2prbc: 2 units of packed red blood cells
+mitral/tricuspid: mitral and tricuspid 
+ra/rv: right atrium/right ventricle
+p/o: post-operative
+v2-3: V2 and V3 
+nh3: ammonia
+hmg-coa: 3-hydroxy-3-methylglutaryl-coenzyme A
+gyn/onc: gynecologic oncology
+osa-does: obstructive sleep apnea
+vat: video-assisted thoracoscopy
+bps: beats per second 
+mvp/mr: mitral valve prolapse/mitral regurgitation
+hus: hemolytic uremic syndrome
+rx'ed: prescribed
+c/o: complains of
+myringotomy: surgical procedure to create an opening in the eardrum
+ngt: nasogastric tube
+jp: Jackson-Pratt 
+lvf: left ventricular failure
+lytes: electrolytes
+bcxs: blood cultures
+pe: pulmonary embolism
+h.r: heart rate
+pgy-2: postgraduate year 2
+art/venous: arterial/venous
+abg: arterial blood gas
+mvmts: movements
+pvd-s/p: peripheral vascular disease - status post
+cta-: computed tomography angiogram
+-u/s: ultrasound
+ca-125: cancer antigen 125
+trpn: troponin
+ctas: computed tomography angiograms
+bilatclip: bilateral clipping
+cv-icu: cardiovascular intensive care unit
+esrf: end-stage renal failure
+ets: endoscopic thoracic sympathectomy
+etohism: alcohol history
+agb: adjustable gastric banding
+ntd: neural tube defect
+bp: blood pressure
+ett: endotracheal tube
+psv: pressure support ventilation
+bipap: bilevel positive airway pressure
+sah: subarachnoid hemorrhage
+er/pr: estrogen receptor/progesterone receptor
+t1dm: type 1 diabetes mellitus
+tcc: transitional cell carcinoma
+svt: supraventricular tachycardia
+ob-gyn: obstetrics and gynecology
+psvt: paroxysmal supraventricular tachycardia
+pa-c: physician assistant-certified
+hcv/cirrhosis: Hepatitis C Virus/Cirrhosis
+sah/iph: Subarachnoid Hemorrhage/Intraperitoneal Hemorrhage
+l6: Lumbar Vertebra 6
+ccns: Critical Care Nurse Specialist
+a-gap: Anion Gap
+w/dm: With Diabetes Mellitus
+ng/ml: Nanograms per milliliter
+fio2/: Fraction of Inspired Oxygen
+mca/pca: Middle Cerebral Artery/Posterior Cerebral Artery
+ich/cva: Intracranial Hemorrhage/Cerebrovascular Accident
+vf/vt: Ventricular Fibrillation/Ventricular Tachycardia
+inotropy: Ability to change the force of cardiac contractions
+post-renal: Pertaining to after the kidney
+fluorouracil: A chemotherapy drug
+ercp: Endoscopic Retrograde Cholangiopancreatography
+biv-icd: Biventricular Implantable Cardioverter-Defibrillator
+wenkebach: A type of heart block, also known as Mobitz Type I or Mobitz I
+pmibi: Technetium Tc99m Sestamibi, a type of medical imaging agent
+wenkebach: A type of heart block, also known as Mobitz Type I or Mobitz I
+ipratropium/albuterol: ipratropium and albuterol
+ps/cpap: positive support/continuous positive airway pressure
+er+: estrogen receptor positive
+nsr-nst: normal sinus rhythm-non stress test
+w/bladder: with bladder
+w/rssi: with received signal strength indication
+stds: sexually transmitted diseases
+eruption: skin eruption
+w/history: with history
+midaz/fentanyl: midazolam/fentanyl
+vanco/zozyn: vancomycin/piperacillin-tazobactam
+wedges: lung wedges
+-electrolytes: electrolytes
+mod-large: moderate to large
+vanco/levo/zosyn: vancomycin/levofloxacin/piperacillin-tazobactam
+-cardiogram: cardiogram
+w/movement: with movement
+-cough: cough
+ptp: post-tetanic potentiation
+0.4mcg/kg/min: 0.4 micrograms per kilogram per minute
+lesion\radiofrequency: lesion treated with radiofrequency
+ssic: subcutaneous implanted cardioverter
+pt: patient
+pwp: pulmonary wedge pressure
+hct: hematocrit
+inr: international normalized ratio
+pna: pneumonia
+pulm: pulmonary
+asa: acetylsalicylic acid 
+aicd: automated implantable cardioverter defibrillator
+sob: shortness of breath
+vrr: ventricular rate response 
+cmv: cytomegalovirus
+ivbs: intraventricular block 
+g3p1: gravida 3 para 1
+dvt: deep vein thrombosis
+abg: arterial blood gas
+fs: fluid status 
+s/pvc: status post-ventricular contraction
+egd-: esophagogastroduodenoscopy
+s-20: serine 20 
+rr-reg: respiratory rate regular
+anti-coag: anticoagulant
+prbc's: packed red blood cells
+v3-v4: V3-V4 leads of the electrocardiogram
+kcals/89: kilocalories
+pna: pneumonia
+gtt's: drops 
+a1c:6.6: glycated hemoglobin 6.6%
+icd/ppm: implantable cardioverter defibrillator/pacemaker
+dph: diphenhydramine
+lao: left anterior oblique
+leg/foot: leg and foot 
+htn-h/o: hypertension history of
+w/mrsa: with methicillin-resistant Staphylococcus aureus
+fracture/malalignment: fracture and malalignment
+ptca/stenting: percutaneous transluminal coronary angioplasty with stenting
+iodoform: not an abbreviation, but it's a type of antiseptic
+lulobectomy: assuming this means lobectomy of the left upper lobe
+allosct: allogeneic stem cell transplant
+cva/bleed: cerebrovascular accident or bleeding
+thc: tetrahydrocannabinol
+htn-: hypertension
+vzv: varicella-zoster virus
+cp.pt: chest pain patient
+tachycardia-: tachycardia
+cav: cavitation 
+fluid/electrolyte: fluid and electrolyte balance
+f/c/ns: fever, chills, night sweats
+ileocolostomy: ileocolostomy procedure
+pemphigoid: bullous pemphigoid
+papules: skin papules
+kypho/scoliosis: kyphosis and scoliosis
+tracheostomy/peg: tracheostomy and percutaneous endoscopic gastrostomy
+pantoea: Pantoea bacteria 
+mrcp/ercp: magnetic resonance cholangiopancreatography/endoscopic retrograde cholangiopancreatography
+angina\coronary: angina and coronary artery disease
+sinus-: sinus rhythm or sinusitis
+diverticulits: diverticulitis
+trimester: trimester of pregnancy
+morphine/percocet: morphine and percocet 
+milrinione: milrinone (heart failure medication)
+air/sbft: air small bowel follow-through
+mediastinal/pleural: mediastinal and pleural regions
+pe/pna: pulmonary embolism/pneumonia
+ct: computed tomography
+o2: oxygen
+fio2-: fraction of inspired oxygen
+cigs/day: cigarettes per day
+cig/day: cigarette per day
+sbp: systolic blood pressure
+dobut: dobutamine
+q8/hr: every 8 hours
+.sats: oxygen saturations
+dexa: dual-energy x-ray absorptiometry
+lad-: left anterior descending artery
+0.45ns: 0.45% normal saline
+her2/neu: human epidermal growth factor receptor 2
+bib: brought in by
+rr14: respiratory rate 14
+pad-: peripheral arterial disease
+c-scan: computed tomography scan
+ffm: free fat mass
+interv: intervention
+obt: obturator
+m/s: morphine sulfate
+prca: pure red cell aplasia
+rafib: rapid atrial fibrillation
+omf: oromaxillofacial
+ws/p: wet to soft/positive
+f/ch: fever/chills
+nitr: nitroglycerin
+hr: hour
+sma: superior mesenteric artery
+cx3: chemokine receptor 3
+elb: elbow
+alb/atrov: albumin/atropine 
+pterygopalatine: pterygopalatine fossa 
+nsb: non-sustained bradycardia 
+onx: On-X
+q2wks: every 2 weeks
+naphos: sodium phosphate
+bllod: possibly a typo for "blood"
+cge: continuous glucose monitoring 
+c2-c7: cervical vertebrae 2 to 7
+s/po: status post oral 
+rig: rigidity
+ntemi: non-ST segment elevation myocardial infarction
+ctg: cardiotocography
+bbl: barrel 
++2l: plus 2 liters
+cardioverter-defibrillator: implantable cardioverter-defibrillator
+ctx2: contractions 
+yoga: yoga therapy 
+ivx2: intravenous times 2 
+ms/comfort: morphine sulfate/comfort 
+txplant: transplant
+bsugars: blood sugars
+rpo: right posterior oblique 
+elp: extra long pulse 
+msra: MRSA: Methicillin-resistant Staphylococcus aureus
+2l/nc: 2L/NC: 2 Liters Nasal Cannula
+w/up: workup
+pna/effusion: PNA: pneumonia / Effusion: Typically refers to fluid accumulation, like in pleural effusion.
+q48hr: every 48 hours
+ls-cta: LS-CTA: Lumbar spine computed tomography angiography
+rllobectomy: Right Lower Lobe Lobectomy: Assuming a typo here with double 'l', as 'lobectomy' already implies removal of a lobe.
+dot: DOT: Directly observed therapy
+neu: NEU: Neutrophils
+v/vi: Grade V/VI: Referring to the intensity of a heart murmur.
+vassopressin: Vasopressin: A hormone, but not an abbreviation.
+fosinopril: Fosinopril: A medication, not an abbreviation.
+q.d.: QD: once a day
+vanco/meropenem: Vancomycin/Meropenem: Both are medications. The slash indicates they're both given.
+psv/peep: PSV: Pressure Support Ventilation / PEEP: Positive End-Expiratory Pressure
+b/f: before
+pid: PID: Pelvic Inflammatory Disease
+0.0625: This is a dosage and not an abbreviation.
+d.t: delirium tremens
+copd/chf: COPD: Chronic Obstructive Pulmonary Disease / CHF: Congestive Heart Failure
+fs-: fasting sugar
+nahco3-: Sodium Bicarbonate
+i+: ionized calcium 
+inter-cranial: intracranial
+mv=: Mechanical Ventilation 
+pac02: PaCO2: Partial Pressure of Carbon Dioxide
+c/t/l: cervical/thoracic/lumbar 
+tl-201: Thallium-201
+w/vac: with vacuum 
+tte-: Transthoracic Echocardiogram
+w/resp: with respirations 
+b.s: bowel sounds
+-mr: Mitral Regurgitation
+ct/: Computed Tomography
+ciwa/: Clinical Institute Withdrawal Assessment
+a1c: Hemoglobin A1C
+t4-t10: Thoracic vertebrae 4 through 10
+3t: 3 Tesla 
+radius/ulna: Bones of the forearm
+cls: Closed Loop System or Central Line-Associated Bloodstream Infection 
+r-radial: Right radial 
+dopp: Doppler 
+ua/ucx: Urinalysis and Urine Culture
+pe's: Pulmonary embolisms
+c1-c4: Cervical vertebrae 1 through 4
+plcx: Posterolateral Circumflex artery
+hgb/hct: hemoglobin/hematocrit
+cad/cabg: coronary artery disease/coronary artery bypass graft
+svg-drca: saphenous vein graft-distal right coronary artery
+iii-iv: Stage 3-4
+bv: bacterial vaginosis
+rchop: Rituximab, Cyclophosphamide, Hydroxydaunorubicin, Oncovin, Prednisone 
+nmbas: neuromuscular blocking agents
+lmwh: low molecular weight heparin
+ngt/ogt: nasogastric tube/orogastric tube
+ersd: end-stage renal disease
+ef: ejection fraction
+d.t: delirium tremens
+oxycondone: oxycodone
+-carvedilol: carvedilol
+w/avr: with aortic valve replacement
+copd/chf: COPD: Chronic Obstructive Pulmonary Disease/CHF: Congestive Heart Failure
+nahco3-: NaHCO3: Sodium Bicarbonate
+i+: iodine positive
+inter-cranial: intracranial
+mv=: mechanical ventilation
+pac02: PaCO2: Partial Pressure of Carbon Dioxide
+pectoris\left: pectoris left
+sucitoned: suctioned
+weening: weaning
+clincally: clinically
+anesthia: anesthesia
+intermitantly: intermittently
+qsunday: every Sunday
+qsun: every Sunday
+arteriosum: arteriosus
+c/t/l: cervical/thoracic/lumbar
+tachcardia: tachycardia
+particulary: particularly
+pulomonary: pulmonary
+duiresed: diuresed
+bidn: BID: twice a day
+w/resp: with respiratory/responses 
+t1w: T1-weighted 
+resussitation: resuscitation
+inutbated: intubated
+serrousang: serosanguinous
+b.s: bowel sounds
+-mr: mitral regurgitation
+bleedin: bleeding
+yo: years old
+y.o: years old
+dz.: disease
+w/cirrhosis: with cirrhosis
+w/bilateral: with bilateral
+w/mesh: with mesh
+wbc: white blood cell
+y/o: years old
+-peumonia: pneumonia
+w/subsequent: with subsequent
+nibps: non-invasive blood pressure system
+w/abdominal: with abdominal
+w/few: with few
+allo-bmt: allogeneic bone marrow transplant
+mg/d: milligrams per day
+esophagitis/gastritis: esophagitis and gastritis
+j-: possibly referring to a J-tube or Jejunostomy tube but unsure
+pre-med: pre-medication
+syncope\left: syncope and left 
+tachycardia\ep: tachycardia and electrophysiology
+biscuspid: bicuspid
+yof: year old female
+disorder\avr: disorder and aortic valve replacement
+cad\tricuspid: coronary artery disease and tricuspid
+hemotx: possibly referring to hemothorax
+sob: shortness of breath
+52ym: 52-year-old male
+toprolxl: Toprol XL
+n-acetaminophen: N-acetaminophen
+confu: confusion 
+2y: 2-year
+kk: Potassium 
+qwave: Q-wave
+md/np: medical doctor/nurse practitioner
+h/p: history and physical
+1x1cm: 1 by 1 cm
+2-1/2: 2 and a half
+fio2=0.4: Fraction of inspired oxygen = 0.4
+monior: monitor
+allergiec: allergic
+lpo: left posterior oblique
+1,049: 1049
+1,262: 1262
+82/42: 82 over 42 (referring to blood pressure measurements)
+30cc/h: 30 cubic centimeters per hour
+am.: a.m.
+lisnopril: lisinopril
+k+/mg+: Potassium/Magnesium
+70/35: 70 over 35 (referring to blood pressure measurements)
+oob-commode: out of bed to commode
+150/69: 150 over 69 (referring to blood pressure measurements)
+supratherapuetic: supratherapeutic
+160mmhg: 160 mmHg (millimeters of mercury)
+81/41: 81 over 41 (referring to blood pressure measurements)
+14,000: 14000
+85/59: 85 over 59 (referring to blood pressure measurements)
+101/70: 101 over 70 (referring to blood pressure measurements)
+113/83: 113 over 83 (referring to blood pressure measurements)
+6l/min: 6 liters per minute
+124/83: 124 over 83 (referring to blood pressure measurements)
+w/hiv: with HIV
+s.c: subcutaneous
+w/labile: with labile
+100/41: 100 over 41 (referring to blood pressure measurements)
+85/42: 85 over 42 (referring to blood pressure measurements)
+paramedic: This term is correctly spelled.
+1.6-1.8: 1.6 to 1.8
+1,637: 1637 
+svo2/ci: mixed venous oxygen saturation/cardiac index
+lytes/hct/bs: electrolytes/hematocrit/blood sugar
+tidac: three times a day
+iv/: intravenous
+osa/ohs: obstructive sleep apnea/obesity hypoventilation syndrome
+afte: after
+pnet: primitive neuroectodermal tumor
+l5-: lumbar vertebra 5
+st-nsr: sinus tachycardia-normal sinus rhythm
+pulmon: pulmonary
+iv-v: 4-5
+omperazole: omeprazole
+a1c:7.3: hemoglobin A1c level 7.3
+opcab: off-pump coronary artery bypass
+cxr: chest x-ray
+chf: congestive heart failure
+ck/ck-mb: creatine kinase/creatine kinase-myocardial band
+-ns: normal saline
+-ve: negative
+vanc/ceftaz: vancomycin/ceftazidime
+-tube: tube
+ua/: urinalysis
+w/fentanyl: with fentanyl
+-lidocaine: lidocaine
+-trazodone: trazodone
+fent/: fentanyl
+nipv: non-invasive positive pressure ventilation
+totprot: total protein
+c-dif: Clostridium difficile
+ef50: effective dose for 50% of the population
+5fr: 5 French (a measurement of catheter diameter)
+colectomy/ileostomy: colonic resection/ileal diversion
+angiocaths: angiographic catheters
+coccyx/: coccyx
+v-pad: vaginal pad
+cardiology: cardiology
+f+e: fluids and electrolytes
+nif/vc: nifedipine/verapamil chloride 
+edh/sdh: epidural hematoma/subdural hematoma
+af-: atrial fibrillation
+meds/ice: medications/ice
+ms/: multiple sclerosis
+/vomiting: vomiting
+w/albuterol: with albuterol
+mvr/avr: mitral valve replacement/aortic valve replacement
+a1c: glycated hemoglobin
+xclamp: cross-clamp
+k=3.7: potassium level is 3.7
+cv/fluids: cardiovascular/fluids
+lbka: left below-knee amputation
++jvd: positive jugular venous distension
+spo2=100: oxygen saturation 100%
+2l-: 2 liters per minute 
+6lpm: 6 liters per minute
+r-cvp: right central venous pressure
+-k+: low potassium
+-cvl: central venous line
+pna/sepsis: pneumonia/sepsis
+7p-: 7 p.m. 
+pod4: post-operative day 4
+adls/iadls: activities of daily living/instrumental activities of daily living
+dnr/cmo: do not resuscitate/comfort measures only
+-tx: treatment
+mra/mrv: magnetic resonance angiography/magnetic resonance venography
+fnf: femoral neck fracture
+q2: every 2 hours
+t-piece: tracheostomy piece
+88y/o: 88 years old
+c/spine: cervical spine
+kubs: kidneys, ureters, bladder study
+pharmd: doctor of pharmacy
+ef=55: ejection fraction = 55%
+mg/h: milligrams per hour
+neuro-a+ox3: neurological assessment alert and oriented to person, place, and time
+mvit: multivitamin
+tegaderms: It's a brand name for transparent film dressings used for wound care, not an abbreviation.
+cvicu-: Cardiovascular Intensive Care Unit
+rpr: Rapid Plasma Reagin 
+bss: Balanced Salt Solution
+md/rn: Medical Doctor/Registered Nurse
+gi-ogt: Gastrointestinal orogastric tube
+icp: Intracranial Pressure
+cva-: Cerebrovascular Accident 
+msir: Morphine sulfate immediate release
+b/l: bilateral
+w/rate: with rate
+aaox1: alert, awake, and oriented to person 
+hbga1c: Hemoglobin A1c
+mscontin: Morphine Sulfate Controlled-Release
+c.difficile: Clostridium difficile
++ha: with headache
+sats/rr/resp: saturations/respiratory rate/respiration
+s/20: status post 20 
+surgs: surgeries
+lami/fusion: laminectomy/fusion
+w/dyspnea: with dyspnea
+occ-freq: occasionally frequent
+dp/pts: diastolic pressure/patients 
+arvc: arrhythmogenic right ventricular cardiomyopathy
+k-3.8: potassium 3.8
+r'd/o: rule out
+v-: ventricular 
+-cards: cardiogram 
+x2d: for 2 days
+v-: ventricular 
+nstem: non-ST elevation myocardial infarction
+5lo2: 5 liters of oxygen
+ep-: electrophysiology
+psh-: past surgical history
+post-avr: post-aortic valve replacement
+ems-: emergency medical services
+f/c/n/v/d: fever/chills/nausea/vomiting/diarrhea
+mcq/kg/min: microcuries per kilogram per minute
+avblock: atrioventricular block
+clbp: chronic low back pain
+hrc: heart rate control
+eh: essential hypertension
+wnd: wound
+d/c-ed: discharged
+v.fib: ventricular fibrillation
+docs: doctors
+bas: bronchial asthma syndrome
+rsvg: reversed saphenous vein graft
+w/mmp: with morning medications
+inrs: international normalized ratio
+bronchitis/copd: bronchitis/chronic obstructive pulmonary disease
+w/sah: with subarachnoid hemorrhage
+ctm: continue to monitor
+nebs/inh: nebulizers/inhalers
+cads/p: coronary artery disease status post
+aam: acute aortic murmur
+na/osm: sodium/osmolarity
+hr/sbp: heart rate/systolic blood pressure
+tachy/: tachycardia
+tee/cardioversion: transesophageal echocardiography/cardioversion
+picc/midline: peripherally inserted central catheter/midline
+ra: rheumatoid arthritis
+peep-: positive end-expiratory pressure
+lurt: lower urinary tract reconstruction 
+rlp: right lower pole 
+t4-t8: thoracic vertebrae 4 through 8
+ltm: long term memory
+v.tach: ventricular tachycardia
+pvc's-: premature ventricular contractions
+dn: diabetic nephropathy
+t12-s1: Thoracic vertebra 12 to Sacral vertebra 1
+dysph: Dysphagia
+a/s: Aortic stenosis
+ich/sah: Intracranial hemorrhage/Subarachnoid hemorrhage
+lvp: Left ventricular pressure
+chf/gib/rll: Congestive heart failure/Gastrointestinal bleeding/Right lower lobe
+eti: Endotracheal intubation
+rr:20: Respiratory rate 20
+lhm: Laparoscopic Heller myotomy
+ndka: Non-diabetic ketoacidosis
+ef:65: Ejection fraction 65%
+a1c:6.8: Glycated hemoglobin 6.8%
+mellaril: Thioridazine 
+tra: Therapeutic radiology
+femoral/dp: Femoral/Dorsalis pedis
+tspns: Teaspoons
+sats=98: Oxygen saturation 98%
+~12am: Approximately 12 AM
+-fio2: Fraction of inspired oxygen
+erds: electronic prescription
+kcal: kilocalorie
+abd: abdomen
+hcv: hepatitis C virus
+hcc: hepatocellular carcinoma
+abg: arterial blood gas
+dpn: diabetic peripheral neuropathy
+neuro: neurological
+ms: multiple sclerosis
+ics: inhaled corticosteroids
+sr: sustained release
+hflu: Haemophilus influenzae
+na: sodium
+ac: before meals
+cr: creatinine
+rvsp: right ventricular systolic pressure
+evak: evacuation
+q2weeks: every 2 weeks
+ulc: ulcer
+/oropharynx: Oropharynx
+hr: hour
+rfa-: Radiofrequency ablation
+pac's/pvc: Premature atrial contractions/Premature ventricular contractions
+mva: Motor vehicle accident
+cc/hr: cubic centimeters per hour
+o2/: Oxygen
+nstemi/chf: Non-ST elevation myocardial infarction/Congestive heart failure
+ptt/inr: Partial thromboplastin time/International normalized ratio
+y/o: years old
+aline: Arterial line
+peep: Positive end-expiratory pressure
+ml/hr: milliliters per hour
+pnm: Pneumonia
+pcns: Primary central nervous system
+is/tcdb: Incentive spirometry/Turn, cough, and deep breathe
+rr=22: Respiratory rate equals 22
+near-syncope: Near fainting
+ptt/pt: Partial thromboplastin time/Prothrombin time
+pm: Evening
+cv: cardiovascular
+hemor: hemorrhage
+pcs: patient-controlled sedation
+mi: myocardial infarction
+a/a: asthma/allergies
+apgars: Appearance, Pulse, Grimace, Activity, and Respiration 
+arvs: antiretrovirals
+ir-: interventional radiology
+t2/3: thoracic vertebrae 2 and 3
+epzicom: brand name for a combination of abacavir and lamivudine 
+ab+: antibody positive
+cpd: cephalopelvic disproportion
+obgyn: obstetrics and gynecology
+yom: year old male
+cvls: central venous lines
+dextrose/120g: dextrose per 120 grams
+ilii: iliac
+cath/: catheter
+cr/bun: creatinine/blood urea nitrogen
+h.d: hemodialysis
+/maze: maze procedure
+s/syst: signs and symptoms
+neo/insulin: neosynephrine/insulin
+s-g: serum-glucose
+o2=: oxygen saturation
+t3/4: thyroid hormone 3 and 4
+a.line: arterial line
+abx.: antibiotics
+abg~: arterial blood gas
+wet/dry: wet to dry dressing
+rate/bp: rate/blood pressure
+qd-: once daily
+ehco: echocardiogram
+ips-: inpatient service
+mcgs/hr: micrograms per hour
+fmri: functional magnetic resonance imaging
+ef:35: ejection fraction: 35%
+dlad: distal left anterior descending
+copd/renal: chronic obstructive pulmonary disease/renal
+tsicu/neuro: trauma/surgical intensive care unit/neurology
+toprol-xl: metoprolol extended release
+hct/hgb: hematocrit/hemoglobin
+kl: kiloliter 
+pna/ili: pneumonia/influenza-like illness
+pej: percutaneous endoscopic jejunostomy
+rmsf: Rocky Mountain spotted fever
+xlap: exploratory laparotomy
+wbc: white blood cell
+w/neuro: with neurology
+tpp: thiamine pyrophosphate
+cxr/ekg: chest x-ray/electrocardiogram
+msof: multi-system organ failure
+fio2=0.5: fraction of inspired oxygen = 0.5
+t/r: temperature/respiration
+n-med: non-medicated
+cva/tias: cerebrovascular accident/transient ischemic attacks
+c1-3: cervical vertebrae 1-3
+prbc-: packed red blood cells
+osh: outside hospital
+pda/om: patent ductus arteriosus/otitis media
+vtac: ventricular tachycardia
+dm/htn: diabetes mellitus/hypertension
+mvr\mitral: mitral valve replacement\mitral
+pge: prostaglandin E
+mvr/tv: mitral valve replacement/tricuspid valve
+eoms: extraocular movements
+dm2-: diabetes mellitus type 2
+t5/t6: thoracic vertebrae 5/6
+exp/insp: expiration/inspiration
+t/s: traction/splint
+cv/renal: cardiovascular/renal
+.co: cardiac output
+.ekg: electrocardiogram
+mi/ptca: myocardial infarction/percutaneous transluminal coronary angioplasty
+drug/etoh: drug/alcohol 
+opll: ossification of the posterior longitudinal ligament
+beta-blocker/statin: beta-blocker and statin
+cck: cholecystokinin
+hiflo: high flow
+pdt: photodynamic therapy
++gag/+cough: positive gag reflex/positive cough reflex
+out-patient: outpatient
+-hiatal: non-hiatal
+cri-: critical illness-related
+viab: viability
+vagus: vagus nerve
+tvr: tricuspid valve replacement
+lvgram: left ventriculogram
+htxn: heart transplantation 
+bvm: bag-valve-mask
+in-line: inline
+icd9: International Classification of Diseases, 9th Edition
+t9-l1: Thoracic vertebrae 9 to Lumbar vertebrae 1
+w/ct: with chest tube
+hea: headache 
+fhr: fetal heart rate
+k=3.4: potassium level is 3.4 
+sse: saline solution enema
+jct: junction
+tvus: transvaginal ultrasound
+sbp=: systolic blood pressure equals
++gnr: positive gram-negative rods
+vt/svt: ventricular tachycardia/supraventricular tachycardia
++bs/flatus: positive bowel sounds/flatus
+uri/cough: upper respiratory infection/cough
+67y/o: 67 years old
+mri/mrcp: magnetic resonance imaging/magnetic resonance cholangiopancreatography
+levo/vanco: levofloxacin/vancomycin
+ij-cordis: internal jugular Cordis catheter
+cgs: centigrams
+mcl: medial collateral ligament
+ett\cath: endotracheal tube/catheter
+pna/uti: pneumonia/urinary tract infection
+ihr: intrinsic heart rate
+amp/gent: amp and gentamicin
+appr: approximately
+bpm: beats per minute
+c-spine: cervical spine
+ef: ejection fraction
+iop: intraocular pressure
+mr/mvp: mitral regurgitation/mitral valve prolapse
+nrb-: non-rebreather
+s.c.: subcutaneous
+tx'd: treated
+u/: units per
+vv: veno-venous
+wbc: white blood cell count
+fios: Fraction of Inspired Oxygen
+cp/pressure: Cerebral Perfusion Pressure 
+bgs: Blood Glucose Levels
+fio2-40: Fraction of Inspired Oxygen 40%
+k+/ca+: Potassium/Calcium
+hlh: Hemophagocytic Lymphohistiocytosis
+0.9ns: 0.9% Normal Saline
+ex-ivdu: Ex-Intravenous Drug User
+pan-ct: Pan-Computed Tomography
+ln/c: line and communication 
+spo2/po2: saturation of peripheral oxygen/partial pressure of oxygen
+upep: urine protein electrophoresis
+3vcad: triple vessel coronary artery disease
+hemo/ptx: hemothorax/pneumothorax
+bun/cr=23/1.3: blood urea nitrogen/creatinine
+nx: node 
+pne: pulmonary neuroendocrine
+post-aaa: post-abdominal aortic aneurysm
+peep/12: positive end-expiratory pressure of 12 
+a.fib/flutter: atrial fibrillation/flutter
+abg/sats: arterial blood gas/oxygen saturation
+sub-cutaneous: subcutaneous
+cwai: clean with antibiotic irrigation 
+ro/mi: rule out myocardial infarction
+picc-associated: peripherally inserted central catheter-associated
+lll: left lower lobe
+tid/prn: three times a day/as needed
+nafld: non-alcoholic fatty liver disease
+w/cpap: with continuous positive airway pressure
+sfa-akpop: superficial femoral artery-above knee popliteal artery 
+af\thoracoscopic: atrial fibrillation thoracoscopic
+h.5: half 
+lgib/liver: lower gastrointestinal bleeding/liver
+t9-: thoracic vertebra 9 
+2ary: secondary
+i/d-: incision and drainage
+p.s: post scriptum 
+u/ml: units per milliliter
+boop/cop: bronchiolitis obliterans organizing pneumonia / cryptogenic organizing pneumonia
+sxed: probably referring to "surgically explored", but this is an interpretation and not a well-recognized abbreviation
+epi/: epinephrine
+hpi:59m: history of present illness 
+tle: temporal lobe epilepsy
+intol: intolerance
+mcq-: medication compliance questionnaire 
+cea-: carcinoembryonic antigen
+bcx1: blood culture x1
+rebronch: re-bronchoscopy
+oc: oral contraceptive
+pco: polycystic ovaries
+t2/t3: thoracic vertebra 2 / thoracic vertebra 3
+nsr: normal sinus rhythm
+pmh: past medical history
+meds: medications
+sh: social history
+fh: family history
+ua: urinalysis
+c+s: culture and sensitivity
+pulm: pulmonary
+nstemi: non-ST elevation myocardial infarction
+a.c.: before meals 
+slr: straight leg raise
+uo: urine output
+pvc: premature ventricular contraction
+hd: hemodialysis
+c2-t1: referring to cervical vertebrae 2 and thoracic vertebrae 1.
+ua: urinalysis
+w/fio2: with fraction of inspired oxygen
+sbrady: sinus bradycardia
+pa/cvp: pulmonary artery/central venous pressure
+prvc: pressure-regulated volume control
+bp/uo: blood pressure/urine output
+umn: upper motor neuron
+gi=npo: gastrointestinal= nil per os 
+cta/ct: computed tomography angiography/computed tomography
+djd: degenerative joint disease
+cpk: Creatine Phosphokinase
+cvp: Central Venous Pressure
+mmhg: Millimeters of Mercury
+urol: Urology
+.cvp: Central Venous Pressure 
+t: Temperature
+q.h.s: quaque hora somni 
+q.d: quaque die 
+ac: ante cibum 
+po: Per Os 
+lra: Not a recognized medical abbreviation from the given list, so ignored.
+le: Lower Extremity
+pca: Patient-Controlled Analgesia
+sob: Shortness of Breath
+ccr: Creatinine Clearance Rate
+intubed: intubated
+o.u: oculus uterque (both eyes)
+w/htn: with hypertension
+nmsb: neuromuscular blockade
+/edema: with edema
+gtt.: guttae (drops)
+m/n: midnight
+etoh/day: ethanol (alcohol) per day
+.post: postoperative
+dm-type: diabetes mellitus type
+crea-: creatinine
+50units: 50 units
+sbp/map: systolic blood pressure/mean arterial pressure
+hr-70: heart rate 70
+hct=26: hematocrit 26%
+78/36: blood pressure 78/36 mmHg
+c.i.: cardiac index
+hct=26: hematocrit 26%
+sbp/hr: systolic blood pressure per hour
+7:15pm: 7:15 pm
+isulin: insulin
+va.: Virginia
+osm/na: osmolality/sodium
+bun: blood urea nitrogen
+amiod: amiodarone
+cm-: centimeter
+fem-at: femoral arterial
+p.d: per diem
+g2p2: gravida 2 para 2
+periphs: peripherals
+-post-op: post-operative
+cabgs: coronary artery bypass graft surgeries
+cmv-: cytomegalovirus
+.02mcg/kg/min: 0.02 micrograms per kilogram per minute
+ercp/sphincterotomy: ERCP: Endoscopic Retrograde Cholangiopancreatography
+aox2-3: AOX2-3: Alert and Oriented times 2 to 3
++opiates: Positive for opiates
+h/r: heart rate
+bp/hemodynamic: BP: Blood Pressure
+vtach/vfib: VTach: Ventricular Tachycardia; VFib: Ventricular Fibrillation
+v/paced: V-paced: Ventricular paced
+s.cr: Serum Creatinine
+avr-: AVR: Aortic Valve Replacement
+bp/map: BP: Blood Pressure; MAP: Mean Arterial Pressure
+mds/aml: MDS: Myelodysplastic Syndromes; AML: Acute Myeloid Leukemia
+pip/plat: PIP: Peak Inspiratory Pressure; Plat: Plateau Pressure
+w/dm2: with diabetes mellitus type 2
+hge: upper gastrointestinal hemorrhage 
+brpr: bowel movements are regular, passing urine regularly
+hbg: hemoglobin
+n/v/bm: nausea/vomiting/bowel movement
+srh: subretinal hemorrhage
+brp: bathroom privileges
+mri: Magnetic Resonance Imaging
+epi/levo: epinephrine/levophed 
+ccf: Congestive Cardiac Failure
+w/copd: with Chronic Obstructive Pulmonary Disease
+hrs.: hours
+dmt2: Diabetes Mellitus Type 2
+-evd: External Ventricular Drain
+osa-: Obstructive Sleep Apnea
+a1c:7.7: Hemoglobin A1c
+nstemi: Non-ST-Elevation Myocardial Infarction
+u/s-: Ultrasound
+rll/rml: Right Lower Lobe/Right Middle Lobe
+hhs: Hyperosmolar Hyperglycemic State
+ekg-st: Electrocardiogram ST segment
+kpo4: Potassium Phosphate
+ar/mr: Aortic Regurgitation/Mitral Regurgitation
+abc: Airway, Breathing, Circulation
+tob/etoh: Tobacco/Ethanol
+q1-3hrs: every 1 to 3 hours
+dt/etoh: Delirium Tremens due to Ethanol (alcohol) withdrawal
+avr: aortic valve replacement
+mr/ai: mitral regurgitation/aortic insufficiency
+/md: medical doctor
+eta: estimated time of arrival
+rip: rest in peace
+t2-signal: T2-weighted signal 
+t4-l4: T4 to L4 vertebrae 
+c1-t2: C1 to T2 vertebrae 
+v-q: ventilation–perfusion 
+w/occas: with occasional
++htn: positive for hypertension
+lb3: lower back three 
+ercp/mrcp: endoscopic retrograde cholangiopancreatography/magnetic resonance cholangiopancreatography
+ncse: nonconvulsive status epilepticus
+gcs14: Glasgow Coma Scale 14 
+ccu: coronary care unit
+icd: implantable cardioverter-defibrillator
+bp/cvp: blood pressure/central venous pressure
+etoh: ethanol
+ogt: orogastric tube
+svg-lpda: saphenous vein graft-left posterior descending artery
+bzds: benzodiazepines
+hga1c: hemoglobin A1c
+ug: microgram
+dv: domestic violence
+ho: history of
+neur: neurology or neuron
+soa: shortness of air
+lvad: left ventricular assist device
+cva: cerebrovascular accident
+pna: pneumonia
+div: diverticulitis
+hr: heart rate
+q5h: every 5 hours
+pd1: programmed death 1
+e.p: epidural puncture
+3-6l: 3 to 6 liters
+pleu: Pleural
+neuro-a: Neurological Assessment
+2x2cm: 2 by 2 centimeters
+82-92: 82 to 92 
+82/34: 82 over 34 
+159/65: 159 over 65
+45ym: 45-year-old male
+140s/90s: Blood pressures in the 140s over 90s
+2x3cm: 2 by 3 centimeters
+4-9: 4 to 9
+82/34: 82 over 34
+t1-t8: Thoracic vertebrae 1 through 8
+146/97: 146 over 97 
+88/66: 88 over 66 
+134/97: 134 over 97 
+opht: Ophthalmology
+rr-20: Respiratory Rate 20
+149/74: 149 over 74 
+158/83: 158 over 83 
+76/46: 76 over 46 
+72/60: 72 over 60 
+80/35: 80 over 35 
+endovasc: Endovascular
+rad/onc: Radiation Oncology
+ct/cxr: Computed Tomography / Chest X-Ray
+gcs=15: Glasgow Coma Scale = 15
+o.r.: Operating Room
+t6/t7: Thoracic Vertebrae 6 and 7
+avm/cavernoma: Arteriovenous Malformation / Cavernoma
+fx/dx: Fracture / Diagnosis
+esrd-on: End Stage Renal Disease - Ongoing
+nstemi-: Non-ST Segment Elevation Myocardial Infarction
+pgy-3: postgraduate year 3
+pna/pleural: pneumonia/pleural
+a1c:6.9: glycated hemoglobin 6.9%
+levo/vanc: levofloxacin/vancomycin
+ppm-: permanent pacemaker minus
+a-f: atrial fibrillation
+bronc: bronchoscopy
+plts=: platelets equal to
++ruq: positive right upper quadrant
+rca/pda: right coronary artery/posterior descending artery
+asa/plavix/heparin: acetylsalicylic acid/clopidogrel/heparin
+ivntg: intravenous nitroglycerin
+aft: anterior fontanelle
++arf: positive acute renal failure
+wbc=8.8: white blood count equal to 8.8
+lbb: left bundle branch
+l.sided: left-sided
+v.a.c: vacuum-assisted closure
+lbb: left bundle branch
+pneumonia/r/o: pneumonia/rule out
+fd: feeding
+hr75: heart rate 75
+rr:15: respiratory rate 15
+svg-d1-d2: saphenous vein graft to first and second diagonal branch
+autocpap: auto continuous positive airway pressure
+riolan: Riolan's arcade 
+nivmv: non-invasive mechanical ventilation
+t4-t6: thoracic vertebrae 4 to 6
+lm/lad: left main/left anterior descending 
+iacd: implantable automatic cardioverter-defibrillator
+hga1c: hemoglobin A1c
+cidp: chronic inflammatory demyelinating polyneuropathy
+ampula: ampulla
+nvppv: noninvasive positive pressure ventilation
+asthma/: asthma
+bph-s/p: benign prostatic hyperplasia status post
+epivir: brand name for lamivudine, an antiretroviral drug
+cc/kg/hr: cubic centimeters per kilogram per hour
+uti/prostatitis: urinary tract infection/prostatitis
+hsct: hematopoietic stem cell transplant
+mvr: mitral valve replacement
+hv: hepatic venous
+abg: arterial blood gas
+mvs: mitral valve stenosis
+pcnl: percutaneous nephrolithotomy
+vanc: vancomycin
+swanned: Swan-Ganz catheterization
+naac: sodium acetate
+pcd: percutaneous drainage
+dvt/: Deep Vein Thrombosis
+14fr: 14 French 
+svl: Saphenous Vein Ligation 
+m-w: Monday-Wednesday
+sob: Shortness of Breath
+rr: Respiratory Rate
+adhd: Attention-Deficit/Hyperactivity Disorder
+mrsa: Methicillin-resistant Staphylococcus aureus
+nyu: New York University 
+e.d.: Emergency Department
+cbcs: complete blood count studies
+ms4: medical student year 4 
+etoh/tobacco: ethanol/tobacco
+rul/rml: right upper lobe/right middle lobe
+c-difficile: Clostridium difficile
+cvg: coronary venogram or central venous pressure graph
+ot/s: occupational therapy/speech therapy
+avr/tv: aortic valve replacement/tricuspid valve
+gu-bun/cr: genitourinary-blood urea nitrogen/creatinine
+thoraco: thoracotomy or thoracic 
+gr+: gram positive
+atropine/epi: atropine/epinephrine
+co/ci/svo2: cardiac output/cardiac index/mixed venous oxygen saturation
+asym: asymptomatic or asymmetry 
+ng-type: nasogastric-type
+hct=30: hematocrit=30%
+lh: luteinizing hormone
+nsr: normal sinus rhythm
+etoh: ethyl alcohol 
+pft's: pulmonary function tests
+ptv: planning target volume
+iph: intraparenchymal hemorrhage
+sdh: subdural hemorrhage
+peep: positive end-expiratory pressure
+ogt: orogastric tube
+lact: lactate
+wmas: wall motion abnormalities
+nh4: ammonia
+psv5/peep5: pressure support ventilation 5/positive end-expiratory pressure 5
+ef30: ejection fraction 30%
+mdrd: Modification of Diet in Renal Disease
+85y/o: 85 years old
+k+: potassium
+lv: left ventricle
+96/ra: 96% on room air
+enceph: encephalopathy
+ccu/micu: coronary care unit/medical intensive care unit
+neutro: neutrophil
+sxns: symptoms
+t/f: transfer
+w/post: with post
+nsvt-: non-sustained ventricular tachycardia
+65yr: 65 years
+n/v/d/f/c: nausea/vomiting/diarrhea/fever/chills
+hme: heat and moisture exchanger
+aneur: aneurysm
+bppv: benign paroxysmal positional vertigo
+lw: living will 
+esrd-hd: end-stage renal disease-hemodialysis
+famhx: family history
+sft: skin fold thickness 
+bipap/cpap: bilevel positive airway pressure/continuous positive airway pressure
+n.h: nursing home 
+49y.o: 49 years old
+ppt: parts per trillion
+keppra/dilantin: both are brand names of antiepileptic drugs, they aren't abbreviations in this context.
+aado2: alveolar-arterial oxygen gradient
+wp: Wolff-Parkinson-White syndrome
+etoh/illicits: Ethanol (Alcohol)/Illicit Drugs
+ck20: Cytokeratin 20
+cr:1.5: Creatinine:1.5
+cabg/maze: Coronary Artery Bypass Grafting/Maze procedure
+cabg/mvrepair: Coronary Artery Bypass Grafting/Mitral Valve Repair
+ct/cta/ctp: Computed Tomography/Computed Tomography Angiography/Computed Tomography Perfusion
+ariway: possibly a typo for "Airway", though "Airway" isn't an abbreviation.
+p-anca: Perinuclear Anti-Neutrophil Cytoplasmic Antibodies
+rvr-: rapid ventricular response
+rle: right lower extremity
+nsr/sinus: normal sinus rhythm/sinus rhythm
+a1c: hemoglobin A1c
+alnd: axillary lymph node dissection
+npo/tf: nil per os/total feed
+svo2: mixed venous oxygen saturation
+nebs: nebulizers
+rn: registered nurse
+rx: prescription
+gm: gram
+cfi: cerebral flow index
+tmax: maximum temperature
+sahs: sleep apnea-hypopnea syndromes
+i.s.: incentive spirometry
+yom: year old male
+sda: same day admission
+db: decibels
+cbg: capillary blood glucose
+pvcs: premature ventricular contractions
+cu: coronary unit
+nep: nephrology
+ppa: phenylpropanolamine
+wsa: water-soluble aspirin
+spo2: saturation of peripheral oxygen
+mr: magnetic resonance
+v: ventricle
+svc-ra: superior vena cava-right atrium
+anion-gap: anion gap metabolic acidosis
+bdz: benzodiazepine
+eskd: end-stage kidney disease
+w/tachycardia: with tachycardia
+nslc: non-small cell lung cancer 
+ivc/ra: inferior vena cava/right atrium
+cvl-: central venous line
+qid-: quater in die 
+ard: acute respiratory distress
+cpap/50: continuous positive airway pressure/50
+func: function
+dre: digital rectal examination
+.md: doctor of medicine
+av-: arteriovenous
+pco2~77: partial pressure of carbon dioxide ~77 (mmHg)
+50yof: 50 year old female
+66y/o: 66 year old
+nic: neonatal intensive care
+zosyn/vanc: Zosyn/Vancomycin
+bs=: blood sugar equal to
+x/p: post exposure
+alb/atv: Albumin/Atorvastatin
+pt/ptt/inr: prothrombin time/partial thromboplastin time/international normalized ratio
+vein-: vein
+sp/sw: speech and swallow
+h/a-: headache
+psv=: peak systolic velocity equals
+-neg: negative
+/torso: torso
+g+c: gonorrhea and chlamydia
+etoh/cocaine: ethanol/cocaine
+a-fibb: atrial fibrillation
+wt: weight
+tachycard: tachycardia
+celulitis: cellulitis
+los-: length of stay
+ef=15: ejection fraction = 15%
+95/65: blood pressure 95/65 mmHg
+abd/chest/pelvis: abdomen/chest/pelvis
+vpbs: ventricular premature beats
+tft: thyroid function test
+hemorrha: hemorrhage
+type/screen: blood type and screen
+labs=am: labs in the morning
+montitor: monitor
+aab: anti-aquaporin antibodies
+1'avb: first-degree atrioventricular block
+mts: metastases
+hr103: heart rate 103 beats per minute
+vhr: very high resolution
+ica+: internal carotid artery positive
+asympotomatic: asymptomatic
+'lytes: electrolytes
+ileus/sbo: ileus/small bowel obstruction
+=50: equal to 50
+'mds: myelodysplastic syndromes
+dsdna: double-stranded DNA
+lso: lumbar sacral orthosis
+t=103: temperature = 103°F
+104.8r: 104.8°F rectal temperature
+asd/pfo: atrial septal defect/patent foramen ovale
+bradyarrythmia: bradyarrhythmia
+cc: cubic centimeters
+ma: milliampere
+acs: acute coronary syndrome
+ae: adverse event
+cfu/ml: colony-forming units per milliliter
+pfa: platelet function assay
+naa: nucleic acid amplification
+aeb: as evidenced by
+sdh: subdural hematoma
+cv-vs: cardiovascular vital signs
+us: ultrasound
+cxr: chest x-ray
+kub: kidney, ureter, bladder 
+col: colonoscopy
+lvi: lymphovascular invasion
+ntg: nitroglycerin
+j-p: Jackson-Pratt 
+ntg-prn: nitroglycerin as needed
+cbde: common bile duct exploration
+n/v/d/c: nausea/vomiting/diarrhea/constipation
+cvpr: cardiopulmonary resuscitation 
+k+phos: potassium phosphate
+ed: erectile dysfunction
+vpap: variable positive airway pressure 
+gu/renal-: genitourinary/renal
+hl: hearing loss 
+mvts: movements
+cpt/position: chest physiotherapy/position
+ssr: steady-state response 
+gi/surgery: gastrointestinal/surgery
+dca: distal coronary angioplasty 
+ef25: ejection fraction 25% 
+w/iabp: with intra-aortic balloon pump
+ng/og: nasogastric/orogastric
+pm/icd: pacemaker/implantable cardioverter-defibrillator
+ph+: Philadelphia chromosome positive
+hr=67: heart rate equals 67
+s:85: saturation 85%
+cardipulm: cardiopulmonary
+scds: sequential compression devices
+situs: situs inversus 
+lha: left hepatic artery
+hgba1c: hemoglobin A1C
+mbs: modified barium swallow
+hnnk: hyperosmolar nonketotic
+rsbi: rapid shallow breathing index
+ptt: partial thromboplastin time
+fai: femoroacetabular impingement
+ows: opioid withdrawal syndrome
+azb: azathioprine
+dced: discharged
+g/w: gestational week
+am: morning
+lsfa: left superficial femoral artery
+p.e: pulmonary embolism
+-aaa: abdominal aortic aneurysm
+pna: pneumonia
+pnd: paroxysmal nocturnal dyspnea
+cp: chest pain
+abd: abdomen
+ivf's: intravenous fluids
+cva: cerebrovascular accident
+chf: congestive heart failure
+osa-cpap: obstructive sleep apnea-continuous positive airway pressure
+hct/k: hematocrit/potassium
+epi-: epinephrine
+hob^: head of bed elevated
+pac's-: premature atrial contractions
+vanc/levo/: vancomycin/levofloxacin
+gu=foley: genitourinary=foley catheter
+dc'ing: discontinuing
+s/pcabg: status post coronary artery bypass grafting
+vanc/zosyn/cipro: vancomycin/zosyn/ciprofloxacin
+ppis: proton pump inhibitors
+mdd: major depressive disorder
+pvs: peripheral venous system
+ctx/gent/vanc: ceftriaxone/gentamicin/vancomycin
+wbc=4.7: white blood cells = 4.7
+vdrl: Venereal Disease Research Laboratory
+b.m: bowel movement
+lij/tlc: Long Island Jewish/total lung capacity
+scv02: central venous oxygen saturation
+guillian-: Guillain-Barré syndrome
+jto: joint task operation 
+rcu: respiratory care unit
+pna: pneumonia
+crcl: creatinine clearance
+cpap/o2: Continuous Positive Airway Pressure with oxygen
+r-ct: right computed tomography
+pna/rf: pneumonia/rheumatoid factor 
+rso: right salpingo-oophorectomy 
+btb: breakthrough bleeding 
+intr: intravenous
+o.d: once daily
+rra: right renal artery
+m.s: morphine sulfate 
+pfo\patent: patent foramen ovale
+wbc=10.4: white blood cell count
+nsclung: non-small cell lung 
+om4: fourth obtuse marginal 
+tlh: total laparoscopic hysterectomy
+dnr/dni/dnh: do not resuscitate/do not intubate/do not hospitalize
+prsents: This looks like a typo of the word "presents."
+fx: fracture
+-tah/bso: total abdominal hysterectomy/bilateral salpingo-oophorectomy
+1/avb: first degree atrioventricular block
+g/s: gram stain
+lido+epi: lidocaine with epinephrine
+w/cll: with chronic lymphocytic leukemia
+otc: over-the-counter
+ep/: electrophysiology
+c's: contractions
+wbc: white blood cell
+cp/gerd: chest pain/gastroesophageal reflux disease
+htn/lvh: hypertension/left ventricular hypertrophy
+htn.tia: hypertension/transient ischemic attack
+cp/chest: chest pain/chest
+lmh: low molecular heparin
+p-bnp: pro-B-type natriuretic peptide
+ctla4: cytotoxic T-lymphocyte-associated protein 4
+wbrt: whole brain radiation therapy
+cvvh/dialysis: continuous venovenous hemofiltration/dialysis
+hsil: high-grade squamous intraepithelial lesion
+aox1-2: alert oriented times 1-2
+u/a: urinalysis
+ivdu-: intravenous drug user-
+rll: right lower lobe
+aline: arterial line
+l+d: labor and delivery
+pmx: past medical history
+sdb: sleep disordered breathing
+stgs: short term goals
+cxr/: chest x-ray/
+sirs/sepsis: systemic inflammatory response syndrome/sepsis
+pt-1: prothrombin time-1
+post-nasal: post-nasal drip
+^inr: increased international normalized ratio
+aibp: intra-aortic balloon pump
+abgs: arterial blood gases
+avr: aortic valve replacement
+rsbi: rapid shallow breathing index
+po: per os 
+iv: intravenous
+nsb: non-specific binding
+nsr: normal sinus rhythm
+mciu: medical cardiac intensive unit
+osb: on-site backup
+hr/rhythm: heart rate/rhythm
+c.p: chest pain
+hpylori: Helicobacter pylori
+afib-on: atrial fibrillation ongoing
+x-fer: transfer
+-hodgkin: non-Hodgkin 
+rima-: right internal mammary artery
+co/svo2: cardiac output/mixed venous oxygen saturation
+hx/o: history of
+tbna: transbronchial needle aspiration
+hpa: hypothalamic-pituitary-adrenal
+aoo: absence of orders
++hiv: positive human immunodeficiency virus
+po/: per oral
+arbs: angiotensin II receptor blockers
+hct/plts: hematocrit/platelets
+htn/: hypertension
+flutter/atrial: atrial flutter
+myelo: myelogram
+p.aeruginosa: Pseudomonas aeruginosa
+extubate: Extubation
+o2sat=97: Oxygen saturation = 97%
+cv-remains: Cardiovascular remains
+c/s'ed: Cesarean sectioned
+aaa/dissection: Abdominal aortic aneurysm/dissection
+af/svt: Atrial fibrillation/supraventricular tachycardia
+cholecystectomy: Gallbladder removal surgery
+port-a: Port-a-cath
+ra/la: Right atrium/Left atrium
+edema/cellulitis: Swelling or inflammation of the skin and underlying tissues
+ha1c: Hemoglobin A1c
+colonoscopy-: Procedure used to see inside the colon and rectum
+mcg/kg/minute: Micrograms per kilogram per minute
+er+/pr+: Estrogen receptor positive/Progesterone receptor positive
+sats=97: Saturation = 97%
+abdnl: Abdominal
+dhca: Deep hypothermic circulatory arrest
+cpb-: Cardiopulmonary bypass
+w/sw: with/without
+w/emesis: with/emesis
+ip/ir: intraperitoneal/intrarectal
+ip/surgical: intraperitoneal/surgical
+resp/: respiratory
+et/ng: endotracheal/nasogastric
+hemeonc: hematology oncology
++pna: positive pneumonia
+cvl/swan: central venous line/Swan-Ganz catheter
+k+mag: potassium and magnesium
+mgt/: management
+sbo-: small bowel obstruction
+htn.: hypertension
+ha/neck: headache/neck
+bsl: blood sugar level
+etomidate/succ: etomidate/succinylcholine
+coocyx: coccyx
+ruq/r: right upper quadrant
+bm's: bowel movements
+NPO: nil per os 
+aoj: anterolateral oblique 
+CSF: cerebrospinal fluid
+PO: per os
+UO: urine output
+QA: quality assurance
+w/cr: with creatinine
+w/sepsis: with sepsis
+w/cipro: with ciprofloxacin
+mt/pleural: mediastinal/thoracic pleural
+cxr~: chest x-ray
+^pa: posteroanterior
+bronch/: bronchoscopy
+.mae: moves all extremities
+-spo2: saturation of peripheral oxygen
+v/d: vomiting/diarrhea
+fcn: full code status 
+r-picc: right-peripherally inserted central catheter
+-tsh: thyroid-stimulating hormone
+cp/left: chest pain/left
+resp-ra: respiratory room air
+e/a: early/late
+oat: oral anticoagulation therapy
+pih: pregnancy-induced hypertension
+ci/svo2: cardiac index/mixed venous oxygen saturation
+ci-: cardiac index
+as-: aortic stenosis
+r-heart: right heart
+sbp-120: systolic blood pressure - 120
+56y/o: 56 years old
+spo2=97: oxygen saturation = 97%
+neuro-angio: neuro-angiography
+sysbp: systolic blood pressure
+dm-oral: diabetes mellitus - oral medications
+mm3: cubic millimeters
+^cholest: elevated cholesterol
+pcomms: posterior communicators
+l-r: left to right
+w/hypoxcemia: with hypoxemia
+cad/pvd: coronary artery disease/peripheral vascular disease
+w/oob: without out of bed
+mg/k: milligram per kilogram
+inr/hct: international normalized ratio/hematocrit
+w/dementia: with dementia
+cvp~: central venous pressure
+w/bair: with barium
+pcw-: pulmonary capillary wedge
+pe/other: pulmonary embolism/others
+rrrr^.j: might be related to heart sounds or rhythm but it's unclear
+acs/: acute coronary syndrome
+aaox2-3: alert, awake, oriented to 2-3
+peerl: pupils equal, round, reactive to light
+r.d: respiratory distress or related term
+e/empyema: empyema
+a-vitamin: vitamin A
+rr:14: respiratory rate 14
+ps-: percutaneous stent or related term
+p=rl: possibly related to pressures or pulses but it's not clear
+ca2+: calcium ion
+ampicillin/gentamycin: ampicillin and gentamicin
+fio2: Fraction of Inspired Oxygen
+ac: After Meals
+vd/vt: Dead Space Ventilation to Tidal Volume
+copd/pna: Chronic Obstructive Pulmonary Disease / Pneumonia
+evd: External Ventricular Drain
+hhnk: Hyperosmolar Hyperglycemic Nonketotic Syndrome
+sob: Shortness of Breath
+cla: Conjugated Linoleic Acid
+c/db/spirocare: Coughing/Deep Breathing/Spirometry Care
+cca/ica: Common Carotid Artery/Internal Carotid Artery
+hr: hour
+idl: intermediate-density lipoprotein
+pmp: pain management program
+cxr: chest X-ray
+asa: acetylsalicylic acid 
+rr: respiratory rate
+nas: nasopharyngeal airway
+cont'd: continued
+s/pmvr: status post mitral valve replacement
+qlunch: quetiapine 
+db-: decibels or diabetes
+diuresis-: diuresis
+w/mv: with mechanical ventilation
+cardioresp: cardiorespiratory
+w/plan: with plan
+-glucose: glucose
+rr=20: respiratory rate equals 20
+w/palpation: with palpation
++djd: positive degenerative joint disease
+svg-lcx: saphenous vein graft-left circumflex artery
+hepar: heparin
+tss: toxic shock syndrome
+labs/cultures: laboratory tests/cultures
+k-wires: Kirschner wires
+d/b: diastolic blood pressure
+qam/: every morning
+broncho: bronchoscopic or bronchodilation
+hfpef: heart failure with preserved ejection fraction
+c2-4: cervical vertebrae 2 through 4
+post-orif: post open reduction internal fixation
+ccy/appy: cholecystectomy/appendectomy
+s.bp: systolic blood pressure
+mcg: microgram
+gdm: gestational diabetes mellitus
+ct/mr: computed tomography/magnetic resonance
+ioc: intraoperative cholangiography
+ekg: electrocardiogram
+etoh: ethanol 
+hiv/hep: human immunodeficiency virus/hepatitis
+c/diff: Clostridium difficile
+sbo/lysis: small bowel obstruction/lysis
+eps/ppm: electrophysiological study/permanent pacemaker
+prn/: prn: as needed
+bp/low: bp: blood pressure
+k-4.1: k: potassium
+bp/low: bp: blood pressure
+pneumonia'pleural: pneumonia: pneumonia
+ck's/troponin: ck: creatine kinase
+s/micu: s/micu: surgical/medical intensive care unit
+cvp/pad: cvp: central venous pressure, pad: peripheral artery disease
+peg/pej: peg: percutaneous endoscopic gastrostomy, pej: percutaneous endoscopic jejunostomy
+pxr: Pregnane X receptor
+rsbi: Rapid Shallow Breathing Index
+sbp: Systolic Blood Pressure
+bp: Blood Pressure
+hr: Heart Rate
+ctx: Ceftriaxone
+bp:131/73: Blood Pressure: 131/73
+hr:87: Heart Rate: 87
+ctx/azithromycin: Ceftriaxone/Azithromycin
+c-spine: Cervical Spine
+r/o: Rule Out
+cad: Coronary Artery Disease
+etoh: Ethyl Alcohol 
+opiate: Not an abbreviation.
+sats: Oxygen Saturation
+cta: Computed Tomography Angiography
+bp: Blood Pressure
+ngt: Nasogastric Tube
+ciw: Continuous Intravenous Infusion 
+o/n: overnight
+care/meds: care/medications
+cp/nausea/sob: chest pain/nausea/shortness of breath
+ppw: postpartum week
+dnr/dni/cmo: do not resuscitate/do not intubate/comfort measures only
+fs-20: fingerstick-20 
+uris: upper respiratory infections
+aws: alcohol withdrawal syndrome
+hr-100: heart rate-100
+l/t: long term
+ugib/lgib: upper gastrointestinal bleed/lower gastrointestinal bleed
+w/.5mg: with 0.5 milligram
+ua+: urinalysis positive
+q6/prn: every 6 hours/as needed
+hpi:78m: history of present illness: 78 months
+x3hrs: every 3 hours
+1mg/h: 1 milligram per hour
+^psa: prostate-specific antigen increase
+84/36: 84 systolic/36 diastolic 
+108/39: 108 systolic/39 diastolic 
+-250: minus 250
+170/107: 170 systolic/107 diastolic 
+.375mcg/kg/min: 0.375 micrograms per kilogram per minute
+91/25: 91 systolic/25 diastolic 
+t102.8: temperature 102.8
+2x18g: 2 times 18 gauge
+103-113: 103 to 113
+alt=: alanine aminotransferase equals to
+170/81: 170 systolic/81 diastolic 
+nph/regular: neutral protamine Hagedorn/regular
+4,892: four thousand eight hundred ninety-two
+.43: 0.43
+173/102: 173 systolic/102 diastolic 
+zn: zinc
+2,899: two thousand eight hundred ninety-nine
+17:27: 17 hours 27 minutes 
+164/108: 164 systolic/108 diastolic 
++rsv: positive respiratory syncytial virus
+70/23: 70 systolic/23 diastolic 
+5,963: five thousand nine hundred sixty-three
+f/c/sob: fever/chills/shortness of breath
+s/a: status asthmaticus
+pao2/fio2: partial pressure of oxygen/fraction of inspired oxygen
+vhc: very high concern 
+bp=74/42: blood pressure=74/42
+chf/pneumonia: congestive heart failure/pneumonia
+extra-ocular: extraocular 
+ef:15: ejection fraction:15%
+w/gi: with gastrointestinal symptoms or concerning gastrointestinal
+gcs15: Glasgow Coma Scale 15
+afib-flutter: atrial fibrillation-flutter
+avp-: arginine vasopressin
+emt's: emergency medical technicians
+hba1c: hemoglobin A1c
+wt: weight
+adm: admission
+edema/acute: edema
+hd/pd: hemodialysis/peritoneal dialysis
+asa/heparin: acetylsalicylic acid/heparin
+head/eyes: head, eyes, ears, nose, throat
+rcx: right circumflex coronary artery
+tmin: temperature minimum
+i/o=: input/output
+rx'd: prescribed
+s/wk: times per week
+hk/ak: housekeeping and activities of daily living
+k+3.1: potassium level of 3.1
+ekg: electrocardiogram
+h.s: hora somni 
+ugibs: upper gastrointestinal bleeding
+lytes: electrolytes
+uti: urinary tract infection
+hsv-1: herpes simplex virus 1
+tsp: teaspoon
+lgbp: lower gastrointestinal bleeding
+ecrp: endoscopic retrograde cholangiopancreatography
+bb: beta-blocker
+gj-tube: gastro-jejunal tube
+ptca: percutaneous transluminal coronary angioplasty
+afib: atrial fibrillation
+sr: sinus rhythm
+ldlcalc: low-density lipoprotein calculated
+ct-pa: computed tomography pulmonary angiogram
+svg: saphenous vein graft
+p/v: per vagina
+svc: superior vena cava
+avr: aortic valve replacement
+sob: shortness of breath
+infxns: infections
+c/e: contraindication/effect
+bs/lytes: blood sugar/electrolytes
+w/complaint: with complaint
+w/sterile: with sterile
+w/l4: with L4
+w/pcp: with primary care provider
+n+v: nausea + vomiting
+lcca: left common carotid artery
+w/pcp: with primary care provider
+resp-lung: respiratory-lung
+hol: history of present illness 
+steroids/: steroids
+stool/: stool
+o/c: over the counter
+sbp/maps: systolic blood pressure/mean arterial pressures
+ophthal: ophthalmology
+ffp-: Fresh Frozen Plasma
+pmh-htn: Past Medical History-Hypertension
+rass: Richmond Agitation-Sedation Scale
+dlcx: Distal Left Circumflex
+pa-c.: Pulmonary Artery Catheter
+fio2: Fraction of Inspired Oxygen
+rhc-: right heart catheterization
+pna: pneumonia
+kcl-: potassium chloride
+ccp: c-reactive protein
+dts: delirium tremens
+bsa: body surface area
+ivg: intravenous gamma globulin
+ua/ucx: urinalysis/urine culture
+sbp: systolic blood pressure
+ms: multiple sclerosis
+asa: acetylsalicylic acid (Aspirin)
+ctx: ceftriaxone
+levo: levofloxacin
+doxy: doxycycline
+fvr: fever
+labs/ekg: laboratories/electrocardiogram
+azith: azithromycin
+ee: eosinophilic esophagitis
+ibs: irritable bowel syndrome
+temp: temperature
+bp: blood pressure
+resp: respiration
+sat: saturation
+wt: weight
+afib: atrial fibrillation
+ros: review of symptoms
+o2sat: oxygen saturation
+sbp: systolic blood pressure
+nstemi: non-ST elevation myocardial infarction
+eshd: end-stage heart disease
+a1c: Hemoglobin A1c
+hco3=: bicarbonate
+ra/oa: rheumatoid arthritis/osteoarthritis
+aicd/: automated implantable cardioverter-defibrillator
+dnr/dn: do not resuscitate/do not intubate
+ercp: endoscopic retrograde cholangiopancreatography
+mvr: mitral valve replacement
+bimc: Probably a typo or an abbreviation not commonly recognized up to my last update.
+c154dwk: Not a standard abbreviation in the medical domain as per my training data.
+trach/ventilator: tracheostomy/ventilator
+ams-: Altered mental status 
+mvmnts: Movements
+ger: Gastroesophageal reflux
+vanc/levo/zosyn: Vancomycin/Levofloxacin/Piperacillin-Tazobactam
+vanc/cipro: Vancomycin/Ciprofloxacin
+asa81mg/d: Acetylsalicylic Acid 81 mg per day 
+asa81/d: Acetylsalicylic Acid 81 mg per day 
+ebl=600cc: Estimated blood loss = 600 cubic centimeters
+fluids=4.5l: Fluids = 4.5 liters
+ckd-h/o: Chronic kidney disease - history of
+-map: Mean arterial pressure 
+/cabgx4: Coronary artery bypass graft times 4
+dailysis: Possibly a typo for "dialysis."
+rr25: respiratory rate 25
+w/lm: with left mid
+llb: lower left back
+w/scattered: with scattered
+w/partial: with partial
+telemetry\biventricular: telemetry biventricular
+bc+: blood culture positive
+w/granulation: with granulation
+btkr: below the knee replacement
+om/seq: otitis media sequela
+plv/pda: patent lumen valve/patent ductus arteriosus
+om/seq: otitis media sequela
+r/o: rule out
+ruq/episgastric: right upper quadrant/epigastric
+fs=133: fasting sugar 133
+a/ox2-3-easily: alert and oriented to 2-3 easily
+afib/vt: atrial fibrillation/ventricular tachycardia
+s/pfall: status post fall
+sgot: serum glutamic oxaloacetic transaminase
+afib/tachy: atrial fibrillation/tachycardia
+-sdh: subdural hematoma
+cx/ua: chest x-ray/urinalysis
+etoh/nash: ethanol/non-alcoholic steatohepatitis
+etoh/+cocaine: ethanol/cocaine use
+nvh: no visible hemorrhage
+c5-c6/sda: cervical vertebrae 5-6/same day admission
+pvd/dry: peripheral vascular disease/dry
+chf\status: congestive heart failure status
+r.thr: right total hip replacement
+pna: pneumonia
+chf: congestive heart failure
+ards: acute respiratory distress syndrome
+fragement: fragment
+reviwed: reviewed
+recessitation: resuscitation
+hemodyalisis: hemodialysis
+eveal: reveal
+eith: with
+reponsive: responsive
+admisssion: admission
+mirtazepine: mirtazapine
+resdient: resident
+pacreatitis: pancreatitis
+magneseium: magnesium
+resistence: resistance
+awiting: awaiting
+proceded: proceeded
+atelectsis: atelectasis
+sypmtoms: symptoms
+edma:adma
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
