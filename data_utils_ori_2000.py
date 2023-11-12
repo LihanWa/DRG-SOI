@@ -19,7 +19,7 @@ class DrgTextDataset(Dataset):
         if args.LongFormer=='No':
             self.text_dir = '%s/text_tokens' % self.data_dir 
         else:
-            print('a'*12)
+            
             self.text_dir = '%s/text_LongFormer' % self.data_dir 
         # self.token2id_dir = '%s/token2id.dict' % self.data_dir
         # self.token2id = pd.read_pickle(self.token2id_dir)
