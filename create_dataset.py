@@ -32,13 +32,10 @@ if args.LongFormer=='Yes':
     tokenizer = LongformerTokenizerFast.from_pretrained("yikuan8/Clinical-Longformer",ignore_mismatched_sizes=True,max_length = 2000)
     for i in datasets:
         for j,v in enumerate(i):
-            # print(v['text'])
-            # print(type([v['text'][0]]))
-            # print(type(v['text'][0]))
 
             tokens = tokenizer(v['text'], return_tensors="pt",max_length=2000, truncation=True, padding = 'max_length')
-            # tokens['input_ids']=tokens['input_ids']
-            # tokens['attention_mask']=tokens['attention_mask']
+            tokens['input_ids']=tokens['input_ids'][0]
+            tokens['attention_mask']=tokens['attention_mask'][0]
             v['text']=tokens
 
             if j==len(i)-1: break

@@ -51,7 +51,9 @@ def main():
         text_dir = '%s/text_raw' % data_dir
         output_dir = '%s/text_LongFormer' % data_dir
         filename = "abbreviation-fullspelling.txt"  
-        abbreviation_dict = load_abbreviation_dict_from_file(filename)
+        abbreviation_dict={}
+        if args.use_AbbFull=='Yes':
+            abbreviation_dict = load_abbreviation_dict_from_file(filename)
         if not os.path.exists(output_dir):
             os.makedirs(output_dir)
         files = [f for f in os.listdir(text_dir) if f.endswith('pk')]

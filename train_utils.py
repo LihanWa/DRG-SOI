@@ -73,7 +73,7 @@ def train_dev(model, train_dataset, dev_dataset, epochs, batch_size, optimizer, 
     best_loss=1e+5
     better=True
     cnt_w=2
-    if args.cohort=='ms':
+    if args.data_source=='ms':
         criterion1 = CenterLoss(num_classes=738, feat_dim=738)
     else:
         criterion1 = CenterLoss(num_classes=1136, feat_dim=1136)
@@ -90,7 +90,10 @@ def train_dev(model, train_dataset, dev_dataset, epochs, batch_size, optimizer, 
           better=True
           best_score=dev_score
           best_loss=dev_loss
-          save_file='best%s' %args.cohort.upper()                       #yoagai
+          if args.LongFormer=='Yes':
+              save_file='best%s_LongFormer' %args.data_source.upper()                       
+          else:
+              save_file='best%s' %args.data_source.upper()                       
           torch.save({'model_state_dict':model.state_dict()},save_file)
         else:
           cnt_w+=1
@@ -132,7 +135,7 @@ def train(model, dataset, batch_size,criterion1, optimizer,optimizer1,cnt):
     dloader =  DataLoader(dataset, batch_size=batch_size, shuffle=True,pin_memory  = True,num_workers=8,drop_last=True)
     batch_bar   = tqdm(total=len(dloader), dynamic_ncols=True, leave=False, position=0, desc='Train')
 
-    for batch in dloader:
+    for i,batch in enumerate(dloader):
         if args.LongFormer=='No':
             x = batch['text']
             lx=batch['lenX']
@@ -145,10 +148,17 @@ def train(model, dataset, batch_size,criterion1, optimizer,optimizer1,cnt):
             optimizer.zero_grad()
             optimizer1.zero_grad()
             logits, loss,loss1,cnt_w = model(criterion1,x ,lx,age,los,label,cnt)
-            loss=loss+loss1
+            loss_sum=loss+loss1
+            scaler.scale(loss_sum).backward()
             scaler.step(optimizer1)
             del x, lx, label
         else:
+            if i%700==0 and i>0:
+              print('save')
+              save_file='best%s_LongFormer' %args.data_source.upper()                      
+              torch.save({'model_state_dict':model.state_dict()},save_file)
+       
+            scaler = torch.cuda.amp.GradScaler() 
             batch['text']['input_ids']=batch['text']['input_ids'].cuda()
             batch['text']['attention_mask']=batch['text']['attention_mask'].cuda()
 
@@ -157,13 +167,14 @@ def train(model, dataset, batch_size,criterion1, optimizer,optimizer1,cnt):
             labels = batch['drg'].cuda()
 
             optimizer.zero_grad()
-            inputs =x
-            tmp = model(**inputs, labels=labels)
+
+           
+            tmp = model(**x, labels=labels)
             loss=tmp.loss
             logits=tmp.logits
-            
-            del batch, labels, logits
-        scaler.scale(loss).backward()
+            scaler.scale(loss).backward()
+            del batch, labels, logits,tmp
+        
         scaler.step(optimizer)
         
         scaler.update()
@@ -174,8 +185,7 @@ def train(model, dataset, batch_size,criterion1, optimizer,optimizer1,cnt):
         nb_tr_steps += 1
 
         batch_bar.set_postfix(loss="{:.04f}".format(float(tr_loss / (nb_tr_steps + 1))),
-        lr="{:.05f}".format(float(optimizer.param_groups[0]['lr']))
-        ,cnt_w="{:.04f}".format(float(cnt_w)))
+        lr="{:.05f}".format(float(optimizer.param_groups[0]['lr'])))
         batch_bar.update()
         torch.cuda.empty_cache()
 
@@ -209,7 +219,7 @@ def test(model, dataset, batch_size, score_func):
 
             age=batch['age']
             los=batch['los']
-            if args.cohort=='ms':
+            if args.data_source=='ms':
                 criterion1 = CenterLoss(num_classes=738, feat_dim=738)
             else:
                 criterion1 = CenterLoss(num_classes=1136, feat_dim=1136)
@@ -382,4 +392,6 @@ def split_df_by_pt_mimic4(df, frac=None, k=None):
         
         assert len(splits) == k
         return splits
+
+
 

@@ -16,9 +16,9 @@ class myModel(nn.Module):
     
     def __init__(self,args,embedding,Atten):
         super(myModel, self).__init__()
-        self.cohort=args.cohort
+        self.data_source=args.data_source
         self.embed_size=200
-        if self.cohort=='ms':
+        if self.data_source=='ms':
           self.age_embedding = nn.Embedding(91,8)  
           self.los_embedding = nn.Embedding(88,15)
         else:
@@ -68,7 +68,7 @@ class myModel(nn.Module):
         self.layer_norm0 = nn.LayerNorm(normalized_shape=512)
         self.layer_norm1 = nn.LayerNorm(normalized_shape=512)
         self.layer_norm2 = nn.LayerNorm(normalized_shape=662)
-        if self.cohort=='ms':
+        if self.data_source=='ms':
           self.layer_norm3 = nn.LayerNorm(normalized_shape=738)
           self.layer_norm4 = nn.LayerNorm(normalized_shape=738)
           self.linear=nn.Linear(hidden_size0*2+150+23,738)
@@ -219,7 +219,6 @@ class Attention(nn.Module):
     self.query=self.QW(out_hid)
     self.key=self.KW(out_hid)
     self.value=self.VW(out_hid)
-    # qk=torch.bmm(self.query.to(DEVICE),self.key.transpose(1,2).to(DEVICE)) #B*1*nT
     qk=torch.bmm(self.query,self.key.transpose(1,2)) #B*1*nT
 
     attn_weights=torch.nn.functional.softmax(qk/qk.shape[2]**0.5,dim=2)
@@ -230,8 +229,6 @@ class Attention(nn.Module):
 
 
 def plot_attention(attention):
-    # Function for plotting attention
-    # You need to get a diagonal plot
     plt.clf()
     sns.heatmap(attention.detach().cpu().numpy(), cmap='GnBu')
 
