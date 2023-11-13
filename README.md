@@ -14,8 +14,7 @@ BioWordVec_PubMed_MIMICIII_d200.vec.bin
 The [BioWordVec](https://github.com/ncbi-nlp/BioSentVec) word embedding is used in the experiments. 
 ## 2.create dataset
 ```shell
-!python create_cohorts.py --data_dir data --mimic_dir /Users/lihan/Downloads --threshold 48 --data_source apr_mimic3 
-```
+!python create_dataset.py  --data_source ms --LongFormer Yes --use_AbbFull No```
 
 ## Eval:
 
