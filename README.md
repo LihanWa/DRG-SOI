@@ -5,6 +5,7 @@ Get files for MS-DRG and APR-DRG of MIMIC-III: DRGCODES.csv, ICUSTAYS.csv, ADMIS
 
 Get files for APR-DRG of MIMIC-IV: DRGCODES.csv, ICUSTAYS.csv, ADMISSIONS.csv, and PATIENTS.csv are available in [MIMIC_IV](https://physionet.org/content/mimiciv/2.2/). discharge.csv is available in [discharge](https://physionet.org/content/mimic-iv-note/2.2/note/#files-panel).
 
+The method of creating dataset is the same whether it is for LongFormer or not. "--collectText" can be set as "No", if "text_raw" file is already created. For data preprocess, if you want to preprocess LongFormer, the "--LongFormer" should be set as "Yes"; otherwise, it should be set as "No". 
 ```shell
 # 
 !python data_preprocess.py --data_dir data --mimic_dir  --threshold 48 --data_source ms --LongFormer Yes --collectText No --use_AbbFull No
@@ -12,10 +13,10 @@ Get files for APR-DRG of MIMIC-IV: DRGCODES.csv, ICUSTAYS.csv, ADMISSIONS.csv, a
 BioWordVec_PubMed_MIMICIII_d200.vec.bin
 The [BioWordVec](https://github.com/ncbi-nlp/BioSentVec) word embedding is used in the experiments. 
 ```shell
-# create cohort -- will print the cohort statistics during processing
-python create_cohort.py --data_dir $DATA_PATH --mimic_dir $MIMIC_PATH --threshold 48
+# !python create_cohorts.py --data_dir data --mimic_dir /Users/lihan/Downloads --threshold 48 --data_source apr_mimic3 
 ```
-## Checkpoints:
+
+## Eval:
 
 To run our results directly: Firstly, you should finish running step 1-3. Then, you can download the checkpoints from the links and move it to the root directory. 
 
@@ -28,7 +29,7 @@ The "--data_source" can be set as "ms", or "apr_mimic3", or "apr_mimic4", which 
 ```shell
 !python main.py --epochs 1 --patience 10 --lr 1.2e-4 --wd 0 --data_source apr_mimic3 --eval_model eval --LongFormer Yes --batch_size 3
 ```
-
+### checkpoints:
 checkpoint for MS-DRG of MIMIC-III of LGLC: [bestMS](https://drive.google.com/file/d/1I-XlJP0Gj3GK6U4ebRpxn0PwtHdZIoK4/view?usp=sharing)
 
 checkpoint for APR-DRG of MIMIC-III of LGLC: [bestAPR_MIMIC3](https://drive.google.com/file/d/1-QrKJ2wR5fHsMxMZVhoE_AZD46kRR8zx/view?usp=sharing)
