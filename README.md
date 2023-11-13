@@ -1,5 +1,18 @@
 # DRG-SOI
 ## Checkpoints:
+## 1.Create dataset and preprocess:
+To get files of  
+```shell
+# 
+!python data_preprocess.py --data_dir data --mimic_dir  --threshold 48 --data_source ms --LongFormer Yes --collectText No --use_AbbFull No
+```
+BioWordVec_PubMed_MIMICIII_d200.vec.bin
+The [BioWordVec](https://github.com/ncbi-nlp/BioSentVec) word embedding is used in the experiments. 
+```shell
+# create cohort -- will print the cohort statistics during processing
+python create_cohort.py --data_dir $DATA_PATH --mimic_dir $MIMIC_PATH --threshold 48
+```
+
 To run our results directly: Firstly, you should finish running step 1-3. Then, you can download the checkpoints from the links and move it to the root directory. 
 
 The "--eval_model" should be set as eval.
@@ -24,19 +37,3 @@ checkpoint for APR-DRG of MIMIC-III of LongFormer: [bestAPR_MIMIC3_LongFormer](h
 
 checkpoint for APR-DRG of MIMIC-IV of LongFormer: [bestAPR_MIMIC4_LongFormer](https://drive.google.com/file/d/1Jc1auu8L9nGKyAlP3p7YoGs9HtYJDVvB/view?usp=sharing)
 
-###1.Create dataset and preprocess:
-To get files of  
-```shell
-# 
-!python data_preprocess.py --data_dir data --mimic_dir /Users/lihan/Downloads --threshold 48 --data_source ms --LongFormer Yes --collectText No --use_AbbFull No
-```
-BioWordVec_PubMed_MIMICIII_d200.vec.bin
-The [BioWordVec](https://github.com/ncbi-nlp/BioSentVec) word embedding is used in the experiments. 
-```shell
-# create cohort -- will print the cohort statistics during processing
-python create_cohort.py --data_dir $DATA_PATH --mimic_dir $MIMIC_PATH --threshold 48
-```
-
-<p align="center" width="100%">
-<img src="flow.jpg" width=600 >
-</p>
