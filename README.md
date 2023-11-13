@@ -1,7 +1,10 @@
 # DRG-SOI
-## Checkpoints:
+
 ## 1.Create dataset and preprocess:
-To get files of  
+Get files for MS-DRG and APR-DRG of MIMIC-III: DRGCODES.csv, ICUSTAYS.csv, ADMISSIONS.csv, PATIENTS.csv, and NOTEEVENTS.csv are available in [MIMIC_III](https://physionet.org/content/mimiciii/1.4/).
+
+Get files for APR-DRG of MIMIC-IV: DRGCODES.csv, ICUSTAYS.csv, ADMISSIONS.csv, and PATIENTS.csv are available in [MIMIC_IV](https://physionet.org/ content/mimiciv/2.2/) discharge.csv 
+
 ```shell
 # 
 !python data_preprocess.py --data_dir data --mimic_dir  --threshold 48 --data_source ms --LongFormer Yes --collectText No --use_AbbFull No
@@ -12,6 +15,7 @@ The [BioWordVec](https://github.com/ncbi-nlp/BioSentVec) word embedding is used 
 # create cohort -- will print the cohort statistics during processing
 python create_cohort.py --data_dir $DATA_PATH --mimic_dir $MIMIC_PATH --threshold 48
 ```
+## Checkpoints:
 
 To run our results directly: Firstly, you should finish running step 1-3. Then, you can download the checkpoints from the links and move it to the root directory. 
 
