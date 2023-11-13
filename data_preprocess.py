@@ -288,7 +288,7 @@ def get_common(files, text_dir, output_dir):
 
 def get_embeddings(words, output_dir):
     print("loading biovec...")
-    model = KeyedVectors.load_word2vec_format(os.path.join('..', 'BioWordVec_PubMed_MIMICIII_d200.vec.bin'), binary=True)
+    model = KeyedVectors.load_word2vec_format(os.path.join('BioWordVec_PubMed_MIMICIII_d200.vec.bin', binary=True)
     print("loaded, start to get embed for tokens")
 
     model_vocab = set(model.index_to_key)
