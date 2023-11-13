@@ -3,7 +3,7 @@
 ## 1.Create dataset and preprocess:
 Get files for MS-DRG and APR-DRG of MIMIC-III: DRGCODES.csv, ICUSTAYS.csv, ADMISSIONS.csv, PATIENTS.csv, and NOTEEVENTS.csv are available in [MIMIC_III](https://physionet.org/content/mimiciii/1.4/).
 
-Get files for APR-DRG of MIMIC-IV: DRGCODES.csv, ICUSTAYS.csv, ADMISSIONS.csv, and PATIENTS.csv are available in [MIMIC_IV](https://physionet.org/ content/mimiciv/2.2/) discharge.csv 
+Get files for APR-DRG of MIMIC-IV: DRGCODES.csv, ICUSTAYS.csv, ADMISSIONS.csv, and PATIENTS.csv are available in [MIMIC_IV](https://physionet.org/content/mimiciv/2.2/). discharge.csv is available in [discharge](https://physionet.org/content/mimic-iv-note/2.2/note/#files-panel).
 
 ```shell
 # 
