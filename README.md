@@ -1,6 +1,6 @@
 # DRG-SOI
 ## Checkpoints:
-If you want to run our result directly,firstly, you should finish running step 1-3. Then, you can download the checkpoints from the links and move it to the root directory. Then, the "--eval_model" should be set as eval.
+To want to run our results directly: Firstly, you should finish running step 1-3. Then, you can download the checkpoints from the links and move it to the root directory. Then, the "--eval_model" should be set as eval.
 
 checkpoint for MS-DRG of MIMIC-III of LGLC: [bestMS](https://drive.google.com/file/d/1I-XlJP0Gj3GK6U4ebRpxn0PwtHdZIoK4/view?usp=sharing)
 
