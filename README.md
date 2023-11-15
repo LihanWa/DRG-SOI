@@ -17,7 +17,7 @@ DRGCODES.csv, ICUSTAYS.csv, ADMISSIONS.csv, and PATIENTS.csv are available in [M
 
 The method of combining information from files is the same whether it is for LongFormer or not. "--collectText" can be set as "No", if "text_raw" file is already created. For data preprocess, if you want to preprocess LongFormer, the "--LongFormer" should be set as "Yes"; otherwise, it should be set as "No". 
 ```shell
-
+#--mimic_dir depends on where your mimic files are.
 !python data_preprocess.py --data_dir data --mimic_dir  --threshold 48 --data_source ms --LongFormer Yes --collectText No --use_AbbFull No
 ```
 BioWordVec_PubMed_MIMICIII_d200.vec.bin
@@ -39,7 +39,7 @@ The "--data_source" can be set as "ms", or "apr_mimic3", or "apr_mimic4", which 
 
 ```shell
 #If you want to train by yourself, "--eval_model" should be set as "train".
-!python main.py --epochs 1 --patience 10 --lr 1.2e-4 --wd 0 --data_source apr_mimic3 --eval_model eval --LongFormer Yes --batch_size 3
+!python main.py --epochs 1  --lr 1.2e-4 --wd 0 --data_source apr_mimic3 --eval_model eval --LongFormer Yes --batch_size 3
 ```
 ### checkpoints:
 checkpoint for MS-DRG of MIMIC-III of LGLC: [bestMS](https://drive.google.com/file/d/1I-XlJP0Gj3GK6U4ebRpxn0PwtHdZIoK4/view?usp=sharing)
