@@ -21,7 +21,7 @@ The method of combining information from files is the same whether it is for Lon
 !python data_preprocess.py --data_dir data --mimic_dir  --threshold 48 --data_source ms --LongFormer Yes --collectText No --use_AbbFull No
 ```
 BioWordVec_PubMed_MIMICIII_d200.vec.bin
-The [BioWordVec](https://github.com/ncbi-nlp/BioSentVec) word embedding is used in the experiments. 
+The [BioWordVec](https://github.com/ncbi-nlp/BioSentVec) word embedding is used in LGLC model, and it is better to be put in the root directory. 
 ## 2.create dataset
 ```shell
 !python create_dataset.py  --data_source ms --LongFormer Yes --use_AbbFull No
