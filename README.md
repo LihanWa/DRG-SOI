@@ -5,6 +5,7 @@
 
 #### 3. For Clinical LongFormer, you can choose to use our abbreviation_fullspelling.txt file to replace abbreviation in the clinical texts with fullspelling, by setting "--use_AbbFull".
 
+#### 4. Our code is for both training and testing by setting "--eval_model".
 ## 1.combine information from files and preprocess:
 Get files for MS-DRG and APR-DRG of MIMIC-III: 
 
@@ -37,6 +38,7 @@ If you want to run LongFormer, the "--LongFormer" should be set as "Yes"; otherw
 The "--data_source" can be set as "ms", or "apr_mimic3", or "apr_mimic4", which represents MS-DRG and APR-DRG of MIMIC-III, and APR-DRG of MIMIC-IV respectively.
 
 ```shell
+#If you want to train by yourself, "--eval_model" should be set as "train".
 !python main.py --epochs 1 --patience 10 --lr 1.2e-4 --wd 0 --data_source apr_mimic3 --eval_model eval --LongFormer Yes --batch_size 3
 ```
 ### checkpoints:
