@@ -29,11 +29,11 @@ The [BioWordVec](https://github.com/ncbi-nlp/BioSentVec) word embedding is used 
 
 ## Eval:
 
-To run our results directly: Firstly, you should finish running step 1-3. Then, you can download the checkpoints from the links and move it to the root directory. 
+To run our results directly: Firstly, you should finish running step 1-2. Then, you can download the checkpoints from the links and move it to the root directory. 
 
 The "--eval_model" should be set as eval.
 
-If you want to run LongFormer, the "--LongFormer" should be set as "Yes"; otherwise, it should be set as "No". If running LongFormer, the "--batch_size" depends on your GPU and RAM. I set it as 3.
+If you want to run LongFormer, the "--LongFormer" should be set as "Yes"; otherwise, it should be set as "No". If running LongFormer, the "--batch_size" depends on your GPU RAM and System RAM. I set it as 3.
 
 The "--data_source" can be set as "ms", or "apr_mimic3", or "apr_mimic4", which represents MS-DRG and APR-DRG of MIMIC-III, and APR-DRG of MIMIC-IV respectively.
 
