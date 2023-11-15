@@ -1,11 +1,15 @@
 # DRG-SOI
 
 ## 1.combine information from files and preprocess:
-Get files for MS-DRG and APR-DRG of MIMIC-III: DRGCODES.csv, ICUSTAYS.csv, ADMISSIONS.csv, PATIENTS.csv, and NOTEEVENTS.csv are available in [MIMIC_III](https://physionet.org/content/mimiciii/1.4/).
+Get files for MS-DRG and APR-DRG of MIMIC-III: 
 
-Get files for APR-DRG of MIMIC-IV: DRGCODES.csv, ICUSTAYS.csv, ADMISSIONS.csv, and PATIENTS.csv are available in [MIMIC_IV](https://physionet.org/content/mimiciv/2.2/). discharge.csv is available in [discharge](https://physionet.org/content/mimic-iv-note/2.2/note/#files-panel).
+DRGCODES.csv, ICUSTAYS.csv, ADMISSIONS.csv, PATIENTS.csv, and NOTEEVENTS.csv are available in [MIMIC_III](https://physionet.org/content/mimiciii/1.4/).
 
-The method of combine information from files is the same whether it is for LongFormer or not. "--collectText" can be set as "No", if "text_raw" file is already created. For data preprocess, if you want to preprocess LongFormer, the "--LongFormer" should be set as "Yes"; otherwise, it should be set as "No". 
+Get files for APR-DRG of MIMIC-IV: 
+
+DRGCODES.csv, ICUSTAYS.csv, ADMISSIONS.csv, and PATIENTS.csv are available in [MIMIC_IV](https://physionet.org/content/mimiciv/2.2/). discharge.csv is available in [discharge](https://physionet.org/content/mimic-iv-note/2.2/note/#files-panel).
+
+The method of combining information from files is the same whether it is for LongFormer or not. "--collectText" can be set as "No", if "text_raw" file is already created. For data preprocess, if you want to preprocess LongFormer, the "--LongFormer" should be set as "Yes"; otherwise, it should be set as "No". 
 ```shell
 
 !python data_preprocess.py --data_dir data --mimic_dir  --threshold 48 --data_source ms --LongFormer Yes --collectText No --use_AbbFull No
