@@ -1,4 +1,9 @@
 # DRG-SOI
+#### 1.Our code is for MS-DRG and APR-DRG of MIMIC-III, and APR-DRG of MIMIC-IV, by setting "--data_source". 
+
+#### 2.Our code is for our model (LGLC) and Clinical LongFormer by setting "--LongFormer". 
+
+#### 3. For Clinical LongFormer, you can choose to use our abbreviation_fullspelling.txt file to replace abbreviation in the clinical texts with fullspelling, by setting "--use_AbbFull".
 
 ## 1.combine information from files and preprocess:
 Get files for MS-DRG and APR-DRG of MIMIC-III: 
