@@ -41,7 +41,7 @@ if __name__ == '__main__':
             model = LongformerForSequenceClassification.from_pretrained("yikuan8/Clinical-Longformer",num_labels=738,ignore_mismatched_sizes=True)
         else:
             model = LongformerForSequenceClassification.from_pretrained("yikuan8/Clinical-Longformer",num_labels=1136,ignore_mismatched_sizes=True)
-        optimizer = torch.optim.Adam(model.parameters(), lr=1e-5, weight_decay=1e-5)
+        optimizer = torch.optim.AdamW(model.parameters(), lr=2e-5, weight_decay=1e-4)
     else:
         Atten=Attention(input_size=512,output_size=150) 
         model = model(args, embedding,Atten,0)    
