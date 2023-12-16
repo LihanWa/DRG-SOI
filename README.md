@@ -1,4 +1,4 @@
-# DRG-SOI
+# DRG and Patient Severity
 #### 1.Our code is for MS-DRG and APR-DRG of MIMIC-III, and APR-DRG of MIMIC-IV, by setting "--data_source". 
 
 #### 2.Our code is for our model (LGLC) and Clinical LongFormer by setting "--LongFormer". 
